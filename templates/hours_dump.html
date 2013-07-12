@@ -1,0 +1,26 @@
+<html>
+<title>Stuff</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+
+<body>
+
+
+
+	<h1>Well, Hello There</h1>
+	{% for project in projects %}
+	<div class="project">{{project['project']}} - {{project['task']}} - {{project['hours']}} </div>
+	{% end %}
+
+	<h3> Total Hours: {{str(hours)}}</h3>
+
+
+
+
+	<script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

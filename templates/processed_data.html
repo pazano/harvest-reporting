@@ -1,0 +1,27 @@
+<html>
+<title>Stuff</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+
+<body>
+
+	{% if 'messages' in globals() %}
+
+		{% for row in messages %}
+			<div>{{row}}</div>
+		{% end %}
+
+	{% else %}
+		<h3> Hello there, nothing was added</h3>
+
+	{% end %}
+
+
+
+	<script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

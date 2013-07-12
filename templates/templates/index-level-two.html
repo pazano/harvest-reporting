@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Project Reporting</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+
+<body>
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div class="span2">
+				<ul class="nav nav-list">
+					<li class="nav-header">
+						Data
+					</li>
+					<li><a href="/update">Harvest Data Upload</a></li>
+					<li><a href="weekly-report/refresh/employee">Refresh Employee Weekly</a></li>
+					<li><a href="weekly-report/refresh/project">Refresh Project Weekly</a></li>
+					<li class="nav-header">
+						Reports - Team
+					</li>
+					<li><a href="/weekly-report?type=team&id=1">Web - Alpha</a></li>
+					<li class="nav-header">
+						Project Management
+					</li>
+					<li class="disabled"><a href="/notes">View All Notes</a></li>
+					<li class="disabled"><a href="/notes/update">Update Notes</a></li>
+					<li class="nav-header">
+						Admin
+					</li>
+					<li class="disabled"><a href="/employees">Employees</a></li>
+					<li class="disabled"><a href="/clients">Clients</a></li>
+					<li class="disabled"><a href="/projects">Projects</a></li>
+					<li class="disabled"><a href="/bookings">Bookings</a></li>
+				</ul>
+			</div>
+
+<!-- Body Container -->
+			<div class="span8">
+				{% block content %}
+
+				{% end %}
+			</div>
+<!-- Right Pad -->
+			<div class="span2">
+			</div>
+		</div>
+	</div>
+
+
+
+	<script src="http://code.jquery.com/jquery.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+</body>
+
+</html>

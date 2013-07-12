@@ -1,0 +1,100 @@
+Date,Client,Project,Project Code,Task,First name,Last name,Note,Hours,Invoiced,Approved,Department,Billable,Hourly rate,Cost,Currency,Currency symbol
+2013-03-11,Microsoft,Hunger Games Explorer,"",Front End Development,Landon,Noss,,0.8,no,no,HTML Developer,billable,160.0,128.0,United States Dollars - USD,$
+2013-03-11,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Landon,Noss,"OWN creative discussions",5.12,no,no,HTML Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-11,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,6.0,no,no,IA,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-11,RED Interactive Agency,Company Meetings & Paid Time-off,"",Paid time-off,Chris,Pushies,,8.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-11,RED Interactive Agency,Non-Billable Time & Expenses,"",Miscellaneous / administrative,Sam,Horner,,2.0,no,no,IA,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-11,Lionel Trains,Lionel Battle Train,"",Project Management,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-11,RED Interactive Agency,Project Archiving,"",Development,TJ,Tambellini,,0.25,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-11,Guggenheim Partners,Guggenheim Content Portal,"",Conference Calls & Meetings,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-11,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,1,120.0,United States Dollars - USD,$
+2013-03-11,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-11,RED Interactive Agency,Non-Billable Time & Expenses,"",Miscellaneous / administrative,TJ,Tambellini,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-11,Lionel Trains,Lionel Hub,"",Project Management,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-11,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-11,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Andres,Conde,,8.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-11,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,4.0,no,no,HTML Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-11,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-11,WME,WME.com Strategy & Design,"",Development Planning,Danny,Garcia,,4.0,no,no,HTML Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-11,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-11,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-11,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-11,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-12,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-12,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-12,RED Interactive Agency,Non-Billable Time & Expenses,"",Training / Education,Douglas,Hernandez,,2.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-12,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-12,RED Interactive Agency,Company Meetings & Paid Time-off,"",Paid time-off,Landon,Noss,,8.0,no,no,HTML Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-12,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-12,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-12,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Andres,Conde,,8.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-12,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Danny,Garcia,,1.0,no,no,HTML Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-12,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,5.0,no,no,Designer,billable,160.0,800.0,United States Dollars - USD,$
+2013-03-12,RED Interactive Agency,Non-Billable Time & Expenses,"",Miscellaneous / administrative,TJ,Tambellini,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-12,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-12,Guggenheim Partners,Guggenheim Content Portal,"",Conference Calls & Meetings,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-12,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,5.0,no,no,HTML Developer,billable,160.0,800.0,United States Dollars - USD,$
+2013-03-12,RED Interactive Agency,Non-Billable Time & Expenses,"",Training / Education,TJ,Tambellini,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-12,RED Interactive Agency,Non-Billable Time & Expenses,"",Miscellaneous / administrative,Sam,Horner,,3.0,no,no,IA,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-12,RED Interactive Agency,Company Meetings & Paid Time-off,"",Paid time-off,Chris,Pushies,,8.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-12,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,4.0,no,no,IA,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-12,Lionel Trains,Lionel Battle Train,"",Project Management,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-12,Lionel Trains,Lionel Hub,"",Project Management,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-12,WME,WME.com Strategy & Design,"",Development Planning,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-13,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Sam,Horner,,1.0,no,no,IA,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-13,Lionel Trains,Lionel Hub,"",Discovery Phase,Sam,Horner,,4.0,no,no,IA,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-13,Lionel Trains,Lionel Hub,"",Project Management,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-13,RED Interactive Agency,Company Meetings & Paid Time-off,"",Paid time-off,Chris,Pushies,,8.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-13,Lionel Trains,Lionel Retainer,"",Logo Development,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-13,RED Interactive Agency,Project Archiving,"",Development,TJ,Tambellini,,0.25,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-13,RED Interactive Agency,Non-Billable Time & Expenses,"",Miscellaneous / administrative,TJ,Tambellini,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-13,RED Interactive Agency,Company Meetings & Paid Time-off,"",Paid time-off,Landon,Noss,,8.0,no,no,HTML Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-13,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-13,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-13,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-13,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-13,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-13,RED Interactive Agency,Development Process / Framework,"",NON-BILLABLE Project Time,Danny,Garcia,,8.0,no,no,HTML Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-13,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-13,RED Interactive Agency,Non-Billable Time & Expenses,"",Miscellaneous / administrative,Sam,Horner,,2.0,no,no,IA,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-13,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Andres,Conde,,8.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-13,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-14,RED Interactive Agency,Development Process / Framework,"",NON-BILLABLE Project Time,Danny,Garcia,,7.0,no,no,HTML Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-14,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,1.0,no,no,HTML Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-14,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-14,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Andres,Conde,,3.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-14,Lionel Trains,Lionel Retainer,"",Logo Development,Andres,Conde,,4.0,no,no,Art Director,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-14,Lionel Trains,Lionel Hub,"",Discovery Phase,Sam,Horner,,6.0,no,no,IA,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-14,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-14,Lionel Trains,Lionel Retainer,"",Logo Development,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-14,RED Interactive Agency,Non-Billable Time & Expenses,"",Miscellaneous / administrative,Sam,Horner,,2.0,no,no,IA,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-14,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-14,Lionel Trains,Lionel Hub,"",Project Management,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-14,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-14,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-14,Lionel Trains,Lionel Battle Train,"",Design,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-03-14,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-14,Lionel Trains,Lionel Battle Train,"",Project Management,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-14,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-14,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Landon,Noss,,5.0,no,no,HTML Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-14,RED Interactive Agency,Non-Billable Time & Expenses,"",Training / Education,Douglas,Hernandez,,2.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-14,RED Interactive Agency,Non-Billable Time & Expenses,"",Miscellaneous / administrative,TJ,Tambellini,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-15,Lionel Trains,Lionel Retainer,"",Logo Development,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-15,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Landon,Noss,,4.0,no,no,HTML Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-15,RED Interactive Agency,Business Development,"",Non-Specific Biz Dev Activity,Douglas,Hernandez,,2.0,no,no,Designer,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-15,Lionel Trains,Lionel Battle Train,"",Design,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-03-15,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-15,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-15,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Sam,Horner,,1.0,no,no,IA,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-15,RED Interactive Agency,Non-Billable Time & Expenses,"",Miscellaneous / administrative,Sam,Horner,,1.0,no,no,IA,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-15,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-15,RED Interactive Agency,Company Meetings & Paid Time-off,"",Paid time-off,TJ,Tambellini,,8.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-15,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-15,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-15,Lionel Trains,Lionel Hub,"",Discovery Phase,Sam,Horner,,6.0,no,no,IA,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-15,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-15,RED Interactive Agency,Development Process / Framework,"",NON-BILLABLE Project Time,Landon,Noss,"Great Gatsby Research",1.6,no,no,HTML Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-15,RED Interactive Agency,Non-Billable Time & Expenses,"",Training / Education,Douglas,Hernandez,,0.5,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-15,RED Interactive Agency,Business Development,"",Non-Specific Biz Dev Activity,Andres,Conde,,6.0,no,no,Art Director,billable,140.0,840.0,United States Dollars - USD,$
+2013-03-15,RED Interactive Agency,Development Process / Framework,"",NON-BILLABLE Project Time,Danny,Garcia,,8.0,no,no,HTML Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-15,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Design,Douglas,Hernandez,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$

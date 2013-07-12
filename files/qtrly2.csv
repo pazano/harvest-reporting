@@ -1,0 +1,712 @@
+Date,Client,Project,Project Code,Task,First name,Last name,Note,Hours,Invoiced,Approved,Department,Billable,Hourly rate,Cost,Currency,Currency symbol
+2013-01-01,RED Interactive Agency,Company Meetings & Paid Time-off,"",Paid time-off,Paul,Valenzano,,8.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-02,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Mauro,De Giorgi,"",4.0,no,no,Backend Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-02,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-02,Lego,LEGO Build Together,"",Development,Danny,Garcia,,3.0,no,no,HTML Developer,billable,160.0,480.0,United States Dollars - USD,$
+2013-01-02,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,3.0,no,no,HTML Developer,billable,160.0,480.0,United States Dollars - USD,$
+2013-01-02,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,6.0,no,no,Backend Developer,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-02,Lego,LEGO Build Together,"",Development,Mark,Miscavage,,0.5,no,no,Backend Developer,billable,160.0,80.0,United States Dollars - USD,$
+2013-01-02,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-02,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-02,WME,WME Access,"",Concept & Planning,Landon,Noss,estimation for new tasks,0.91,no,no,HTML Developer,billable,160.0,145.6,United States Dollars - USD,$
+2013-01-02,Legendary Entertainment,Legendary.com Website,"",Post Launch Maintenance Window,Harrington,Joseph,,2.0,no,no,Backend Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-02,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,5.0,no,no,IA,billable,160.0,800.0,United States Dollars - USD,$
+2013-01-02,WME,WME Access,"",Development,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-02,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Training / Education,Mauro,De Giorgi,"",2.0,no,no,Backend Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-02,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Landon,Noss,,7.95,no,no,HTML Developer,billable,160.0,"1,272.0",United States Dollars - USD,$
+2013-01-02,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-02,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Andrew,Feldman,,1.0,no,no,Ad Team,billable,130.0,130.0,United States Dollars - USD,$
+2013-01-02,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,5.0,no,no,Art Director,billable,160.0,800.0,United States Dollars - USD,$
+2013-01-02,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Chris,Pushies,,3.0,no,no,Designer,billable,160.0,480.0,United States Dollars - USD,$
+2013-01-02,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,1.0,no,no,Designer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-02,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Pushies,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-02,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-02,WME,WME Access,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-02,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-02,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-02,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-02,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-02,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-03,WME,WME Access,"",Development,Landon,Noss,,0.24,no,no,HTML Developer,billable,160.0,38.4,United States Dollars - USD,$
+2013-01-03,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,3.0,no,no,Art Director,billable,160.0,480.0,United States Dollars - USD,$
+2013-01-03,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,6.0,no,no,HTML Developer,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-03,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-03,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-03,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Landon,Noss,,4.08,no,no,HTML Developer,billable,160.0,652.8,United States Dollars - USD,$
+2013-01-03,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Ellen,Wong,,2.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-03,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-03,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-03,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-03,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Mauro,De Giorgi,"",7.0,no,no,Backend Developer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-03,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-03,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Pushies,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-03,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Jennifer,Warner,,0.5,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-03,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-03,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-03,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-03,WME,WME Access,"",Development,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-03,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Andrew,Feldman,,3.0,no,no,Ad Team,billable,130.0,390.0,United States Dollars - USD,$
+2013-01-03,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-03,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-03,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,4.0,no,no,IA,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-03,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,2.0,no,no,Backend Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-04,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-04,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-04,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-04,WME,WME Access,"",Development,Landon,Noss,,1.75,no,no,HTML Developer,billable,160.0,280.0,United States Dollars - USD,$
+2013-01-04,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Jennifer,Warner,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-04,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Andrew,Feldman,,2.5,no,no,Ad Team,billable,130.0,325.0,United States Dollars - USD,$
+2013-01-04,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,2.0,no,no,Backend Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-04,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,5.0,no,no,Designer,billable,160.0,800.0,United States Dollars - USD,$
+2013-01-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Mauro,De Giorgi,"",8.0,no,no,Backend Developer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Pushies,,3.0,no,no,Designer,billable,160.0,480.0,United States Dollars - USD,$
+2013-01-04,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,6.0,no,no,Art Director,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-04,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Ellen,Wong,,2.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-04,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Landon,Noss,,0.81,no,no,HTML Developer,billable,160.0,129.6,United States Dollars - USD,$
+2013-01-04,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,4.0,no,no,IA,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-04,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-04,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,7.0,no,no,HTML Developer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-07,Lego,LEGO Build Together,"",Development,Mark,Miscavage,,1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-07,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Mauro,De Giorgi,Search updated with new information in the dinosaur detail page,8.0,no,no,Backend Developer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-07,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Jennifer,Warner,,1.5,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-07,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-07,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Jon,Forster,"",2.0,no,no,Copywriter,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-07,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-07,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-07,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Ellen,Wong,,2.5,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-07,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-07,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Andres,Conde,,3.0,no,no,Art Director,billable,160.0,480.0,United States Dollars - USD,$
+2013-01-07,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-07,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-07,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,4.0,no,no,Backend Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-07,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-07,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-07,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Brad,Mettey,,1.5,no,no,Copywriter,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-07,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Danny,Garcia,,1.0,no,no,HTML Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-07,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,1.0,no,no,HTML Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-07,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,6.0,no,no,HTML Developer,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-07,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Mauro,De Giorgi,Deploy and tests,7.0,no,no,Backend Developer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-08,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-08,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-08,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,4.0,no,no,HTML Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-08,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Danny,Garcia,,1.0,no,no,HTML Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-08,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Andrew,Feldman,,0.5,no,no,Ad Team,billable,130.0,65.0,United States Dollars - USD,$
+2013-01-08,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,4.0,no,no,Backend Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-08,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-08,Guggenheim Partners,Guggenheim Content Portal,"",Conference Calls & Meetings,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-08,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-08,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Estimation,Harrington,Joseph,,1.0,no,no,Backend Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-08,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-08,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-08,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,6.0,no,no,Art Director,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-08,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,"",12.94,no,no,HTML Developer,billable,160.0,"2,070.4",United States Dollars - USD,$
+2013-01-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Mauro,De Giorgi,New text position field,1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-09,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-09,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-09,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-09,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Pushies,,1.0,no,no,Designer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-09,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-09,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Jon,Forster,"",1.0,no,no,Copywriter,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-09,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Andrew,Feldman,,1.0,no,no,Ad Team,billable,130.0,130.0,United States Dollars - USD,$
+2013-01-09,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-09,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-09,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Andres,Conde,,4.0,no,no,Art Director,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-09,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,4.0,no,no,HTML Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-09,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,1.0,no,no,HTML Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-09,Lego,LEGO Build Together,"",Development,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-09,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-09,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Mauro,De Giorgi,Tests,7.0,no,no,Backend Developer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-09,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,3.14,no,no,HTML Developer,billable,160.0,502.4,United States Dollars - USD,$
+2013-01-09,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,3.0,no,no,Backend Developer,billable,160.0,480.0,United States Dollars - USD,$
+2013-01-09,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-10,Lego,LEGO Build Together,"",Development,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-10,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,3.5,no,no,Backend Developer,billable,160.0,560.0,United States Dollars - USD,$
+2013-01-10,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Estimation,Harrington,Joseph,,0.5,no,no,Backend Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-10,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,2.35,no,no,HTML Developer,billable,160.0,376.0,United States Dollars - USD,$
+2013-01-10,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,4.0,no,no,IA,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-10,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Estimation,Danny,Garcia,,2.0,no,no,HTML Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-10,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Mauro,De Giorgi,Changes on models and templates,6.0,no,no,Backend Developer,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-10,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-10,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-10,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Pushies,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-10,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-10,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-10,Guggenheim Partners,Guggenheim Content Portal,"",Conference Calls & Meetings,Paul,Valenzano,,4.0,no,no,Producers,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-10,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-10,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-10,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,4.0,no,no,Art Director,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-10,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-10,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Andrew,Feldman,,0.5,no,no,Ad Team,billable,130.0,65.0,United States Dollars - USD,$
+2013-01-10,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-11,RED Interactive Agency,Business Development,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,1.0,no,no,Producers,billable,140.0,140.0,United States Dollars - USD,$
+2013-01-11,Guggenheim Partners,Guggenheim Content Portal,"",Conference Calls & Meetings,Paul,Valenzano,,3.0,no,no,Producers,billable,160.0,480.0,United States Dollars - USD,$
+2013-01-11,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,7.0,no,no,HTML Developer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-11,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,4.0,no,no,Art Director,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-11,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Jon,Forster,"",3.0,no,no,Copywriter,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-11,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Brad,Mettey,,1.5,no,no,Copywriter,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-11,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-11,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Mauro,De Giorgi,Tests,1.5,no,no,Backend Developer,billable,160.0,240.0,United States Dollars - USD,$
+2013-01-11,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-11,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Mauro,De Giorgi,"Objects Comparisons, Statistics",5.0,no,no,Backend Developer,billable,160.0,800.0,United States Dollars - USD,$
+2013-01-11,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-11,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,4.04,no,no,HTML Developer,billable,160.0,646.4,United States Dollars - USD,$
+2013-01-11,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,2.0,no,no,IA,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-11,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-11,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,4.0,no,no,Backend Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-14,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,7.0,no,no,HTML Developer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-14,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Douglas,Hernandez,,1.5,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-14,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Jacques,Altounian,Getting familiar with PDF doc; Discussing with Sam and Doughlas,1.5,no,no,"Flex, Flash Developer",billable,160.0,240.0,United States Dollars - USD,$
+2013-01-14,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Andres,Conde,,2.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-14,Guggenheim Partners,Guggenheim Content Portal,"",Conference Calls & Meetings,Jacques,Altounian,"meeting with Paul V, Andres, Sam, and Doughlas about next step in building prototype",1.0,no,no,"Flex, Flash Developer",billable,160.0,160.0,United States Dollars - USD,$
+2013-01-14,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,4.0,no,no,Art Director,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-14,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Mauro,De Giorgi,"",4.0,no,no,Backend Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-14,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Mauro,De Giorgi,"",1.5,no,no,Backend Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-14,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-14,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-14,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Andrew,Feldman,,0.5,no,no,Ad Team,billable,130.0,65.0,United States Dollars - USD,$
+2013-01-14,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-14,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,2.0,no,no,IA,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-14,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-14,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Mauro,De Giorgi,"",2.0,no,no,Backend Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-14,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-14,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,"",6.33,no,no,HTML Developer,billable,160.0,"1,012.8",United States Dollars - USD,$
+2013-01-14,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-14,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-14,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-14,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Jon,Forster,"",2.0,no,no,Copywriter,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-14,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Mauro,De Giorgi,"",1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-14,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-15,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Andres,Conde,,6.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-15,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-15,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Estimation,Andres,Conde,,1.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-15,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-15,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,"",5.8,no,no,HTML Developer,billable,160.0,928.0,United States Dollars - USD,$
+2013-01-15,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,6.0,no,no,HTML Developer,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-15,Lego,LEGO Build Together,"",Development,Danny,Garcia,,1.0,no,no,HTML Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-15,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-15,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Andrew,Feldman,,0.5,no,no,Ad Team,billable,130.0,65.0,United States Dollars - USD,$
+2013-01-15,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Mauro,De Giorgi,"",6.0,no,no,Backend Developer,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-15,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Mauro,De Giorgi,"",2.0,no,no,Backend Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-15,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,4.0,no,no,IA,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-15,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-15,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-15,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-15,Guggenheim Partners,Guggenheim Content Portal,"",Proposal/Comp Development,Jacques,Altounian,discuss with Doughlas and Sam; Start simple framework build for prototype,4.0,no,no,"Flex, Flash Developer",billable,160.0,640.0,United States Dollars - USD,$
+2013-01-15,WME,WME Access,"",Conference Calls & Meetings,Landon,Noss,,1.0,no,no,HTML Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-15,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-15,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-15,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,2.5,no,no,IA,billable,160.0,400.0,United States Dollars - USD,$
+2013-01-16,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-16,WME,WME.com Strategy & Design,"",Concept & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-16,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Mauro,De Giorgi,"",5.0,no,no,Backend Developer,billable,160.0,800.0,United States Dollars - USD,$
+2013-01-16,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-16,Guggenheim Partners,Guggenheim Content Portal,"",Proposal/Comp Development,Jacques,Altounian,building site Nav and breadcrumbs system (for easy change with design and easy to target and tell to animate through timeline),7.0,no,no,"Flex, Flash Developer",billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-16,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Andres,Conde,,6.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-16,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,7.0,no,no,IA,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-16,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,5.84,no,no,HTML Developer,billable,160.0,934.4,United States Dollars - USD,$
+2013-01-16,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-16,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,1.0,no,no,Designer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-16,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,6.0,no,no,HTML Developer,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-16,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-16,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Douglas,Hernandez,,4.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-16,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-16,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-16,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Chris,Pushies,,1.0,no,no,Designer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-17,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-17,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-17,Guggenheim Partners,Guggenheim Content Portal,"",Proposal/Comp Development,Jacques,Altounian,Bringing in wireframes and setting them up for animation,7.0,no,no,"Flex, Flash Developer",billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-17,WME,WME.com Strategy & Design,"",Concept & Planning,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-17,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-17,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,5.5,no,no,HTML Developer,billable,160.0,880.0,United States Dollars - USD,$
+2013-01-17,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-17,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-17,WME,WME Access,"",Conference Calls & Meetings,Landon,Noss,,0.4,no,no,HTML Developer,billable,160.0,64.0,United States Dollars - USD,$
+2013-01-17,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Douglas,Hernandez,,4.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-17,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Andres,Conde,,5.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-17,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,5.0,no,no,IA,billable,160.0,800.0,United States Dollars - USD,$
+2013-01-17,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Mauro,De Giorgi,"",4.0,no,no,Backend Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-17,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Mauro,De Giorgi,"",1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-17,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,7.5,no,no,Designer,billable,160.0,"1,200.0",United States Dollars - USD,$
+2013-01-17,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,1.0,no,no,HTML Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-17,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,1.0,no,no,Designer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-18,WME,WME Access,"",Conference Calls & Meetings,Landon,Noss,,0.3,no,no,HTML Developer,billable,160.0,48.0,United States Dollars - USD,$
+2013-01-18,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-18,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-18,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-18,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-18,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Douglas,Hernandez,,6.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-18,Guggenheim Partners,Guggenheim Content Portal,"",Proposal/Comp Development,Jacques,Altounian,Animate wireframes; Bring in prebuilt journey animations Doughlas and Sam made and adjust for new size and animations; make animation edits and post for review,6.0,no,no,"Flex, Flash Developer",billable,160.0,960.0,United States Dollars - USD,$
+2013-01-18,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-18,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-18,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-18,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,5.56,no,no,HTML Developer,billable,160.0,889.6,United States Dollars - USD,$
+2013-01-18,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Andres,Conde,,6.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-21,RED Interactive Agency,Company Meetings & Paid Time-off,"",Paid time-off,Paul,Valenzano,,8.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-21,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,4.0,no,no,IA,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-22,Lego,LEGO Build Together,"",Development,Danny,Garcia,,0.5,no,no,HTML Developer,billable,160.0,80.0,United States Dollars - USD,$
+2013-01-22,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Danny,Garcia,,3.0,no,no,HTML Developer,billable,160.0,480.0,United States Dollars - USD,$
+2013-01-22,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,5.0,no,no,HTML Developer,billable,160.0,800.0,United States Dollars - USD,$
+2013-01-22,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-22,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Andrew,Feldman,,0.5,no,no,Ad Team,billable,130.0,65.0,United States Dollars - USD,$
+2013-01-22,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,3.0,no,no,IA,billable,160.0,480.0,United States Dollars - USD,$
+2013-01-22,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-22,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-22,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-22,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-22,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Andres,Conde,,6.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-22,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-22,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Mauro,De Giorgi,"",1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-22,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Chris,Pushies,,2.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-22,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-22,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,2.0,no,no,Designer,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-22,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Pushies,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-22,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Douglas,Hernandez,,8.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-22,Guggenheim Partners,Guggenheim Content Portal,"",Conference Calls & Meetings,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-22,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,4.96,no,no,HTML Developer,billable,160.0,793.6,United States Dollars - USD,$
+2013-01-23,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Chris,Pushies,,8.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-23,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,5.5,no,no,HTML Developer,billable,160.0,880.0,United States Dollars - USD,$
+2013-01-23,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Andres,Conde,,7.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-23,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-23,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,8.0,no,no,HTML Developer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-23,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Mauro,De Giorgi,"",4.0,no,no,Backend Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-23,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Mark,Liu,,8.0,no,no,"Flex, Product Manager",non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-23,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-23,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Douglas,Hernandez,,7.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-23,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-23,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-23,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-23,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-24,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,8.0,no,no,HTML Developer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-24,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,4.2,no,no,HTML Developer,billable,160.0,672.0,United States Dollars - USD,$
+2013-01-24,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Andres,Conde,,7.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-24,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Douglas,Hernandez,,7.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-24,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-24,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Mauro,De Giorgi,deploy in production and other minor changes,4.0,no,no,Backend Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-24,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Chris,Pushies,,8.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-24,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Mark,Liu,,7.0,no,no,"Flex, Product Manager",non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-24,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-24,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,4.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-24,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-24,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Landon,Noss,Rough Estimation Mtg,2.9,no,no,HTML Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-25,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-25,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-25,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Chris,Pushies,,7.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-25,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-25,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,4.53,no,no,HTML Developer,billable,160.0,724.8,United States Dollars - USD,$
+2013-01-25,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Andres,Conde,,7.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-25,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-25,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Mark,Liu,,4.5,no,no,"Flex, Product Manager",non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-25,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Mauro,De Giorgi,Cache,1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-25,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,7.0,no,no,HTML Developer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-25,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Douglas,Hernandez,,6.5,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-25,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-28,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,4.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-28,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-28,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-28,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Mauro,De Giorgi,"",1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-28,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Mark,Liu,,5.0,no,no,"Flex, Product Manager",non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-28,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Chris,Pushies,,8.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-28,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,7.2,no,no,HTML Developer,billable,160.0,"1,152.0",United States Dollars - USD,$
+2013-01-28,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Douglas,Hernandez,,8.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-28,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-28,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Andres,Conde,,7.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-28,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Danny,Garcia,,8.0,no,no,HTML Developer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-28,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Ben,Danik,,8.0,no,no,3D Artist / Designers,billable,130.0,"1,040.0",United States Dollars - USD,$
+2013-01-29,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-29,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,"",5.0,no,no,HTML Developer,billable,160.0,800.0,United States Dollars - USD,$
+2013-01-29,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Chris,Pushies,,4.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-29,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Mark,Liu,,9.0,no,no,"Flex, Product Manager",non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-29,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,6.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-29,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-29,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-29,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Danny,Garcia,,7.0,no,no,HTML Developer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-29,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-29,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,6.0,no,no,IA,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-29,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Douglas,Hernandez,,8.0,no,no,Designer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-29,Belkin,Thunder Creative Development - Site,"",BILLABLE Project Time,Ben,Danik,,8.0,no,no,3D Artist / Designers,billable,130.0,"1,040.0",United States Dollars - USD,$
+2013-01-29,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-29,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Andres,Conde,,7.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-30,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,6.0,no,no,IA,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-30,WME,WME.com Strategy & Design,"",Concept & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-30,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,6.0,no,no,Art Director,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-30,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-30,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,7.15,no,no,HTML Developer,billable,160.0,"1,144.0",United States Dollars - USD,$
+2013-01-30,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-30,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Danny,Garcia,,6.0,no,no,HTML Developer,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-30,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-30,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-30,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-30,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-30,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Pushies,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-30,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Chris,Pushies,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-01-30,BBC,Walking with Dinosaurs,"",Design,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-30,RED Interactive Agency,Business Development,"",Onsite Meeting / Conference Call,Paul,Valenzano,,1.0,no,no,Producers,billable,140.0,140.0,United States Dollars - USD,$
+2013-01-30,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-31,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-01-31,BBC,Walking with Dinosaurs,"",Design,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-31,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,6.0,no,no,IA,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-31,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-31,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,5.2,no,no,HTML Developer,billable,160.0,832.0,United States Dollars - USD,$
+2013-01-31,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-01-31,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,6.0,no,no,Art Director,billable,160.0,960.0,United States Dollars - USD,$
+2013-01-31,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-31,CBS Films,Last Exorcism 2 WEBSITE,"",Concept & Planning,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-01-31,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Danny,Garcia,,7.0,no,no,HTML Developer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-01-31,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-01-31,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-01,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-01,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-01,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-01,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-01,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-01,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,3.0,no,no,IA,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-01,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-01,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,7.47,no,no,HTML Developer,billable,160.0,"1,195.2",United States Dollars - USD,$
+2013-02-01,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,5.0,no,no,Art Director,billable,160.0,800.0,United States Dollars - USD,$
+2013-02-01,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-01,RED Interactive Agency,Business Development,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,2.0,no,no,Producers,billable,140.0,280.0,United States Dollars - USD,$
+2013-02-04,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-04,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,7.0,no,no,IA,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-04,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-04,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-04,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,2.0,no,no,Backend Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-04,BBC,Walking with Dinosaurs,"",Design,Douglas,Hernandez,,7.5,no,no,Designer,billable,160.0,"1,200.0",United States Dollars - USD,$
+2013-02-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-02-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-04,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,5.0,no,no,HTML Developer,billable,160.0,800.0,United States Dollars - USD,$
+2013-02-04,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,4.08,no,no,HTML Developer,billable,160.0,652.8,United States Dollars - USD,$
+2013-02-04,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,4.0,no,no,Art Director,billable,160.0,640.0,United States Dollars - USD,$
+2013-02-05,WME,WME.com Strategy & Design,"",Concept & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-05,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-05,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,7.0,no,no,HTML Developer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-05,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-02-05,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,6.0,no,no,IA,billable,160.0,960.0,United States Dollars - USD,$
+2013-02-05,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-05,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Landon,Noss,,1.57,no,no,HTML Developer,billable,160.0,251.2,United States Dollars - USD,$
+2013-02-05,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,1.0,no,no,Designer,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-05,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,5.0,no,no,Art Director,billable,160.0,800.0,United States Dollars - USD,$
+2013-02-05,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-05,BBC,Walking with Dinosaurs,"",Design,Douglas,Hernandez,,6.5,no,no,Designer,billable,160.0,"1,040.0",United States Dollars - USD,$
+2013-02-05,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-05,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-05,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,2.0,no,no,Backend Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-05,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-05,Guggenheim Partners,Guggenheim Content Portal,"",Conference Calls & Meetings,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-05,RED Interactive Agency,Business Development,"",Onsite Meeting / Conference Call,Paul,Valenzano,,1.0,no,no,Producers,billable,140.0,140.0,United States Dollars - USD,$
+2013-02-05,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-06,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,6.0,no,no,Art Director,billable,160.0,960.0,United States Dollars - USD,$
+2013-02-06,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-06,RED Interactive Agency,Business Development,"",Onsite Meeting / Conference Call,Paul,Valenzano,,3.0,no,no,Producers,billable,140.0,420.0,United States Dollars - USD,$
+2013-02-06,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-06,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,4.0,no,no,HTML Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-02-06,BBC,Walking with Dinosaurs,"",Design,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-06,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-06,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-06,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Pushies,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-02-06,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-06,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-07,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-07,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,2.9,no,no,HTML Developer,billable,160.0,464.0,United States Dollars - USD,$
+2013-02-07,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-07,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,2.0,no,no,IA,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-07,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-07,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Pushies,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-02-07,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-07,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-07,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-07,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-07,BBC,Walking with Dinosaurs,"",Design,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-08,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-08,CBS Films,Last Exorcism 2 WEBSITE,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-08,Lego,LEGO Build Together,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-08,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,3.0,no,no,HTML Developer,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-08,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-08,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-08,BBC,Walking with Dinosaurs,"",Design,Douglas,Hernandez,,2.0,no,no,Designer,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-11,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-11,Lego,LEGO Build Together,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-11,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,4.0,no,no,Backend Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-02-11,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-11,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-11,BBC,Walking with Dinosaurs,"",Design,Douglas,Hernandez,,5.0,no,no,Designer,billable,160.0,800.0,United States Dollars - USD,$
+2013-02-11,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,4.0,no,no,HTML Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-02-11,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-12,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,4.0,no,no,HTML Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-02-12,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,1.5,no,no,Designer,billable,160.0,240.0,United States Dollars - USD,$
+2013-02-12,BBC,Walking with Dinosaurs,"",Design,Douglas,Hernandez,,6.0,no,no,Designer,billable,160.0,960.0,United States Dollars - USD,$
+2013-02-12,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-12,Guggenheim Partners,Guggenheim Content Portal,"",Conference Calls & Meetings,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-12,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-12,WME,WME.com Strategy & Design,"",Concept & Planning,Chris,Pushies,,5.0,no,no,Designer,billable,160.0,800.0,United States Dollars - USD,$
+2013-02-12,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-12,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-12,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,2.0,no,no,Backend Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-13,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-13,BBC,Walking with Dinosaurs,"",Design,Douglas,Hernandez,,3.0,no,no,Designer,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-13,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,4.0,no,no,IA,billable,160.0,640.0,United States Dollars - USD,$
+2013-02-13,WME,WME.com Strategy & Design,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-02-13,RED Interactive Agency,Company Meetings & Paid Time-off,"",Paid time-off,Paul,Valenzano,,8.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-13,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,5.0,no,no,HTML Developer,billable,160.0,800.0,United States Dollars - USD,$
+2013-02-14,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-14,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-14,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-14,RED Interactive Agency,Business Development,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,1.0,no,no,Producers,billable,140.0,140.0,United States Dollars - USD,$
+2013-02-14,Lego,LEGO Build Together,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-14,RED Interactive Agency,Business Development,"",Onsite Meeting / Conference Call,Paul,Valenzano,,1.0,no,no,Producers,billable,140.0,140.0,United States Dollars - USD,$
+2013-02-14,WME,WME.com Strategy & Design,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-02-14,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,7.0,no,no,IA,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-14,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,7.0,no,no,HTML Developer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-15,Lego,LEGO Build Together,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-15,RED Interactive Agency,Business Development,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,1.0,no,no,Producers,billable,140.0,140.0,United States Dollars - USD,$
+2013-02-15,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-15,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-15,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-15,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,5.0,no,no,IA,billable,160.0,800.0,United States Dollars - USD,$
+2013-02-15,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-15,WME,WME.com Strategy & Design,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-02-15,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,5.5,no,no,Designer,billable,160.0,880.0,United States Dollars - USD,$
+2013-02-15,WME,WME.com Strategy & Design,"",Prototyping & Animation Tests,Jacques,Altounian,,7.0,no,no,"Flex, Flash Developer",billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-15,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,7.0,no,no,HTML Developer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-15,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,3.0,no,no,Backend Developer,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-18,RED Interactive Agency,Company Meetings & Paid Time-off,"",Paid time-off,Paul,Valenzano,,8.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-19,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,7.0,no,no,IA,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-19,WME,WME.com Strategy & Design,"",Prototyping & Animation Tests,Jacques,Altounian,,6.75,no,no,"Flex, Flash Developer",billable,160.0,"1,080.0",United States Dollars - USD,$
+2013-02-19,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,3.0,no,no,HTML Developer,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-19,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-19,WME,WME.com Strategy & Design,"",Concept & Planning,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-19,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-19,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-19,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-19,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-19,WME,WME.com Strategy & Design,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-02-19,Guggenheim Partners,Guggenheim Content Portal,"",Conference Calls & Meetings,Paul,Valenzano,,3.0,no,no,Producers,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-19,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-20,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,3.0,no,no,HTML Developer,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-20,WME,WME.com Strategy & Design,"",Concept & Planning,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-20,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-20,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-20,Lionel Trains,Lionel Hub,"",Discovery Phase,Andres,Conde,,3.0,no,no,Art Director,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-20,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,2.0,no,no,IA,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-20,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,0.42,no,no,HTML Developer,billable,160.0,67.2,United States Dollars - USD,$
+2013-02-20,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,0.5,no,no,Backend Developer,billable,160.0,80.0,United States Dollars - USD,$
+2013-02-20,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-20,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-20,RED Interactive Agency,Business Development,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,1.0,no,no,Producers,billable,140.0,140.0,United States Dollars - USD,$
+2013-02-20,Lego,LEGO Build Together,"",Development,Danny,Garcia,,3.0,no,no,HTML Developer,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-20,WME,WME.com Strategy & Design,"",Prototyping & Animation Tests,Jacques,Altounian,,7.5,no,no,"Flex, Flash Developer",billable,160.0,"1,200.0",United States Dollars - USD,$
+2013-02-20,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-20,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-20,WME,WME.com Strategy & Design,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-02-21,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-21,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-21,WME,WME.com Strategy & Design,"",Prototyping & Animation Tests,Jacques,Altounian,,7.25,no,no,"Flex, Flash Developer",billable,160.0,"1,160.0",United States Dollars - USD,$
+2013-02-21,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-21,RED Interactive Agency,Business Development,"",Non-Specific Biz Dev Activity,Paul,Valenzano,,1.0,no,no,Producers,billable,140.0,140.0,United States Dollars - USD,$
+2013-02-21,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,6.0,no,no,Designer,billable,160.0,960.0,United States Dollars - USD,$
+2013-02-21,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-21,RED Interactive Agency,Business Development,"",Onsite Meeting / Conference Call,Paul,Valenzano,,3.0,no,no,Producers,billable,140.0,420.0,United States Dollars - USD,$
+2013-02-21,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-21,Lionel Trains,Lionel Hub,"",Discovery Phase,Andres,Conde,,3.0,no,no,Art Director,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-21,Lionel Trains,Lionel Hub,"",Discovery Phase,Sam,Horner,,3.0,no,no,IA,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-21,Activision,Skylanders Pitch,"",Non-Specific Biz Dev Activity,Andres,Conde,,3.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-21,Lego,LEGO Build Together,"",Development,Danny,Garcia,,1.0,no,no,HTML Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-21,WME,WME.com Strategy & Design,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-02-22,WME,WME.com Strategy & Design,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-02-22,WME,WME.com Strategy & Design,"",Prototyping & Animation Tests,Jacques,Altounian,,1.0,no,no,"Flex, Flash Developer",billable,160.0,160.0,United States Dollars - USD,$
+2013-02-22,Lionel Trains,Lionel Hub,"",Discovery Phase,Sam,Horner,,3.0,no,no,IA,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-22,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-22,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,2.0,no,no,IA,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-22,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Estimation,Harrington,Joseph,,0.5,no,no,Backend Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-22,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,1.0,no,no,Backend Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-22,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-22,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-22,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-22,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Estimation,Andres,Conde,,1.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-22,WME,WME.com Strategy & Design,"",Concept & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-22,Lionel Trains,Lionel Hub,"",Discovery Phase,Andres,Conde,,3.0,no,no,Art Director,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-22,Guggenheim Partners,Guggenheim Content Portal,"",Conference Calls & Meetings,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-22,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-22,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-22,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-22,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,4.0,no,no,HTML Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-02-25,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,2.82,no,no,HTML Developer,billable,160.0,451.2,United States Dollars - USD,$
+2013-02-25,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,7.0,no,no,IA,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-25,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-25,WME,WME.com Strategy & Design,"",Concept & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-25,Lionel Trains,Lionel Hub,"",Discovery Phase,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-25,WME,WME.com Strategy & Design,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-02-25,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-25,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-25,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-25,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-25,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-25,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-25,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-25,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-25,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,4.0,no,no,HTML Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-02-26,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-26,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-26,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,6.0,no,no,IA,billable,160.0,960.0,United States Dollars - USD,$
+2013-02-26,Lionel Trains,Lionel Hub,"",Discovery Phase,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-26,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Estimation,Andres,Conde,,1.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-26,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-26,Lionel Trains,Lionel Hub,"",Discovery Phase,Andres,Conde,,5.0,no,no,Art Director,billable,160.0,800.0,United States Dollars - USD,$
+2013-02-26,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-26,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,1.0,no,no,HTML Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-26,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-26,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,CDN Working,0.99,no,no,HTML Developer,billable,160.0,158.4,United States Dollars - USD,$
+2013-02-26,WME,WME.com Strategy & Design,"",Concept & Planning,Chris,Pushies,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-02-26,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-26,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-26,Guggenheim Partners,Guggenheim Content Portal,"",Conference Calls & Meetings,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-26,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-27,BBC,Walking with Dinosaurs,"",Development,Danny,Garcia,,4.0,no,no,HTML Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-02-27,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,3.0,no,no,Producers,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-27,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-27,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-27,WME,WME.com Strategy & Design,"",Concept & Planning,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-02-27,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,Updates for the ticket module,2.5,no,no,HTML Developer,billable,160.0,400.0,United States Dollars - USD,$
+2013-02-27,BBC,Walking with Dinosaurs,"",Development,Harrington,Joseph,,2.0,no,no,Backend Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-27,Lionel Trains,Lionel Hub,"",Discovery Phase,Andres,Conde,,5.0,no,no,Art Director,billable,160.0,800.0,United States Dollars - USD,$
+2013-02-27,WME,WME.com Strategy & Design,"",Concept & Planning,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-27,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,5.0,no,no,IA,billable,160.0,800.0,United States Dollars - USD,$
+2013-02-27,Lionel Trains,Lionel Hub,"",Discovery Phase,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-27,Hulu,The Awesomes - Site,"",Account Management,Andrew,Feldman,,1.0,no,no,Ad Team,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-27,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-27,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-27,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-27,BBC,Walking with Dinosaurs,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-27,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Kliford,Hernandez,,1.0,no,no,Designer,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-28,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Kliford,Hernandez,,1.0,no,no,Designer,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-28,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Danny,Garcia,,1.0,no,no,HTML Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-28,Lionel Trains,Lionel Hub,"",Discovery Phase,Andres,Conde,,3.0,no,no,Art Director,billable,160.0,480.0,United States Dollars - USD,$
+2013-02-28,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,5.0,no,no,IA,billable,160.0,800.0,United States Dollars - USD,$
+2013-02-28,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-28,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Estimation,Andres,Conde,,2.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-28,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-28,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-28,WME,WME.com Strategy & Design,"",Concept & Planning,Chris,Pushies,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-02-28,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-28,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-02-28,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-28,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-28,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,7.5,no,no,Designer,billable,160.0,"1,200.0",United States Dollars - USD,$
+2013-02-28,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Landon,Noss,,1.0,no,no,HTML Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-02-28,Hulu,The Awesomes - Site,"",Account Management,Andrew,Feldman,,2.0,no,no,Ad Team,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-02-28,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-01,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,3.5,no,no,Producers,billable,160.0,560.0,United States Dollars - USD,$
+2013-03-01,Hulu,The Awesomes - Site,"",Account Management,Andrew,Feldman,,1.0,no,no,Ad Team,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-01,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-01,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-01,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-01,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-01,WME,WME.com Strategy & Design,"",Concept & Planning,Chris,Pushies,,3.0,no,no,Designer,billable,160.0,480.0,United States Dollars - USD,$
+2013-03-01,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-01,Lionel Trains,Lionel Hub,"",Discovery Phase,Andres,Conde,,4.0,no,no,Art Director,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-01,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-01,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-01,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-01,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Kliford,Hernandez,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-01,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,6.5,no,no,Designer,billable,160.0,"1,040.0",United States Dollars - USD,$
+2013-03-01,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,2.0,no,no,IA,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-01,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-04,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Sam,Horner,,7.0,no,no,IA,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-03-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,5.0,no,no,HTML Developer,billable,160.0,800.0,United States Dollars - USD,$
+2013-03-04,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-04,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Kliford,Hernandez,,6.0,no,no,Designer,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-04,CBS Films,Last Exorcism 2 WEBSITE,"",Development,Danny,Garcia,,1.0,no,no,HTML Developer,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-04,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-04,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-04,WME,WME.com Strategy & Design,"",Concept & Planning,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-04,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,6.0,no,no,Designer,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-04,Lionel Trains,Lionel Battle Train,"",Design,Chris,Pushies,,6.0,no,no,Designer,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-04,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,3.0,no,no,Producers,billable,160.0,480.0,United States Dollars - USD,$
+2013-03-04,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-04,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-04,Lionel Trains,Lionel Hub,"",Discovery Phase,Andres,Conde,,3.0,no,no,Art Director,billable,160.0,480.0,United States Dollars - USD,$
+2013-03-05,Lionel Trains,Lionel Hub,"",Project Management,TJ,Tambellini,,0.25,no,no,Producers,billable,160.0,40.0,United States Dollars - USD,$
+2013-03-05,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,4.0,no,no,HTML Developer,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-05,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-05,Lionel Trains,Lionel Battle Train,"",Design,Andres,Conde,,5.0,no,no,Art Director,billable,160.0,800.0,United States Dollars - USD,$
+2013-03-05,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-05,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,6.0,no,no,Designer,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-05,Lionel Trains,Lionel Hub,"",Discovery Phase,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-05,Lionel Trains,Lionel Battle Train,"",Design,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-03-05,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Kliford,Hernandez,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-03-05,Guggenheim Partners,Guggenheim Content Portal,"",Conference Calls & Meetings,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-05,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-05,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,1.5,no,no,IA,billable,160.0,240.0,United States Dollars - USD,$
+2013-03-05,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-05,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Sam,Horner,,3.0,no,no,IA,billable,160.0,480.0,United States Dollars - USD,$
+2013-03-05,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-05,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-05,Lionel Trains,Lionel Hub,"",Discovery Phase,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-05,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-06,Lionel Trains,Lionel Hub,"",Discovery Phase,Sam,Horner,,4.0,no,no,IA,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-06,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,5.0,no,no,Producers,billable,160.0,800.0,United States Dollars - USD,$
+2013-03-06,WME,WME.com Strategy & Design,"",Concept & Planning,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-06,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Kliford,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-03-06,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,1.5,no,no,IA,billable,160.0,240.0,United States Dollars - USD,$
+2013-03-06,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-06,Lionel Trains,Lionel Battle Train,"",Design,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-03-06,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-06,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,6.0,no,no,HTML Developer,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-06,Hulu,The Awesomes - Site,"",Account Management,Andrew,Feldman,,1.0,no,no,Ad Team,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-06,Lionel Trains,Lionel Hub,"",Discovery Phase,Andres,Conde,,6.0,no,no,Art Director,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-06,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-06,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-03-06,Lionel Trains,Lionel Hub,"",Project Management,TJ,Tambellini,,6.0,no,no,Producers,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-06,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,1.5,no,no,Producers,billable,160.0,240.0,United States Dollars - USD,$
+2013-03-07,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,3.0,no,no,IA,billable,160.0,480.0,United States Dollars - USD,$
+2013-03-07,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,1.5,no,no,Producers,billable,160.0,240.0,United States Dollars - USD,$
+2013-03-07,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-07,Lionel Trains,Lionel Retainer,"",Logo Development,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-07,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-07,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,7.0,no,no,Designer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-03-07,Lionel Trains,Lionel Hub,"",Project Management,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-07,Lionel Trains,Lionel Battle Train,"",Design,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-03-07,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-07,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-07,Lionel Trains,Lionel Battle Train,"",Design,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-07,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Kliford,Hernandez,,6.0,no,no,Designer,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-07,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-07,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-07,Hulu,The Awesomes - Site,"",Account Management,Andrew,Feldman,,0.5,no,no,Ad Team,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-07,WME,WME.com Strategy & Design,"",Concept & Planning,Danny,Garcia,,2.0,no,no,HTML Developer,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-07,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-07,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Sam,Horner,,0.5,no,no,IA,billable,160.0,80.0,United States Dollars - USD,$
+2013-03-07,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,6.0,no,no,HTML Developer,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-07,Lionel Trains,Lionel Hub,"",Discovery Phase,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,,6.0,no,no,HTML Developer,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-08,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-08,Lionel Trains,Lionel Hub,"",Discovery Phase,Sam,Horner,,2.0,no,no,IA,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-08,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,2.0,no,no,IA,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-08,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Kliford,Hernandez,,5.0,no,no,Designer,billable,160.0,800.0,United States Dollars - USD,$
+2013-03-08,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-08,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Douglas,Hernandez,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-08,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-08,Lionel Trains,Lionel Retainer,"",Logo Development,Andres,Conde,,4.0,no,no,Art Director,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-08,Lionel Trains,Lionel Hub,"",Project Management,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-08,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-08,Lionel Trains,Lionel Battle Train,"",Design,Chris,Pushies,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-03-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-08,Lionel Trains,Lionel Battle Train,"",Design,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-08,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-08,WME,WME.com Strategy & Design,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-08,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-08,Guggenheim Partners,Guggenheim Content Portal,"",Project Management,Paul,Valenzano,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-08,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-11,Hulu,The Awesomes - Site,"",Account Management,Andrew,Feldman,,1.5,no,no,Ad Team,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-11,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Kliford,Hernandez,,3.0,no,no,Designer,billable,160.0,480.0,United States Dollars - USD,$
+2013-03-11,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,6.0,no,no,IA,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-12,Guggenheim Partners,Guggenheim Content Portal,"",Research & Planning,Sam,Horner,,4.0,no,no,IA,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-12,Hulu,The Awesomes - Site,"",Account Management,Andrew,Feldman,,1.5,no,no,Ad Team,non-billable,0.0,0.0,United States Dollars - USD,$

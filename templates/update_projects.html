@@ -1,0 +1,17 @@
+{% extends templates/index.html %}
+	
+{% block content %}
+
+	<div class="page-header">
+
+		<h1>Update Harvest Data</h1>
+	
+	</div>	
+
+	<form enctype="multipart/form-data" action="/update-result" method="post">
+	<span class="label">File:</span> 
+		<input type="file" name="harvest-csv" />
+		<input type="submit" value="Upload" class="btn" />
+	</form>
+
+{% end %}

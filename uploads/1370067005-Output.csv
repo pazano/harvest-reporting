@@ -1,0 +1,842 @@
+Date,Client,Project,Task,First name,Last name,Hours,Billable
+2013-04-01,Lionel Trains,Lionel Hub,Discovery Phase,Danny,Garcia,0.75,billable
+2013-04-01,ESPN,NFL Draft Bingo,Design & Development,Danny,Garcia,5.94,billable
+2013-04-01,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,1.0,billable
+2013-04-01,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,2.0,billable
+2013-04-01,ESPN,Fan Hall of Fame 2013,Concept & Planning,Andres,Conde,1.0,billable
+2013-04-01,ESPN,Fan Hall of Fame 2013,Concept & Planning,Danny,Garcia,0.75,billable
+2013-04-01,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.0,non-billable
+2013-04-01,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,0.25,billable
+2013-04-01,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,1.0,billable
+2013-04-01,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-04-01,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-04-01,Lionel Trains,Lionel Trailer and Logo,Logo Development,TJ,Tambellini,0.5,billable
+2013-04-01,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,3.0,non-billable
+2013-04-01,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-04-01,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,1.0,billable
+2013-04-01,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-04-01,Hulu,The Awesomes - Site,BILLABLE Project Time,Kliford,Hernandez,4.0,billable
+2013-04-01,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,4.0,billable
+2013-04-01,ESPN,NFL Draft Bingo,Design & Development,Thomas,Ahn,2.0,billable
+2013-04-01,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-02,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-04-02,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-04-02,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-04-02,Fox Theatrical,WWD The Movie,Project Definition,Paul,Valenzano,1.0,non-billable
+2013-04-02,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-02,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,1.0,billable
+2013-04-02,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,5.0,billable
+2013-04-02,Lionel Trains,Lionel Hub,Discovery Phase,Paul,Valenzano,1.0,billable
+2013-04-02,Lionel Trains,Lionel Trailer and Logo,Logo Development,TJ,Tambellini,0.25,billable
+2013-04-02,Lionel Trains,Lionel Hub,Development,Jay,Weeks,6.0,billable
+2013-04-02,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,0.25,billable
+2013-04-02,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Dinosaur Detail Page / Hero Production,Chris,Lin,3.0,billable
+2013-04-02,ESPN,NFL Draft Bingo,Concept & Planning,Andres,Conde,1.0,billable
+2013-04-02,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-04-02,Lionel Trains,Lionel Hub,Discovery Phase,Sam,Horner,4.5,billable
+2013-04-02,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-04-02,ESPN,NFL Draft Bingo,Design & Development,Danny,Garcia,7.17,billable
+2013-04-02,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,4.0,billable
+2013-04-02,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Danny,Garcia,1.5,non-billable
+2013-04-02,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,1.0,billable
+2013-04-02,ESPN,NFL Draft Bingo,Design & Development,Thomas,Ahn,4.0,billable
+2013-04-02,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,3.0,billable
+2013-04-02,ESPN,NFL Draft Bingo,Concept & Planning,Zach,Glass,0.5,billable
+2013-04-02,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-04-03,Lionel Trains,Lionel Trailer and Logo,Logo Development,Christian,Kowalchuk,6.0,billable
+2013-04-03,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-04-03,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Dinosaur Detail Page / Hero Production,Paul,Valenzano,1.0,billable
+2013-04-03,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,2.0,billable
+2013-04-03,ESPN,NFL Draft Bingo,Design & Development,Thomas,Ahn,4.0,billable
+2013-04-03,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-04-03,Lionel Trains,Lionel Trailer and Logo,Logo Development,Ben,Danik,4.0,billable
+2013-04-03,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Dinosaur Detail Page / Hero Production,Douglas,Hernandez,1.5,billable
+2013-04-03,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,1.0,billable
+2013-04-03,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-04-03,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,0.25,billable
+2013-04-03,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-04-03,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-03,ESPN,NFL Draft Bingo,Design & Development,Danny,Garcia,4.65,billable
+2013-04-03,Lionel Trains,Lionel Trailer and Logo,Logo Development,TJ,Tambellini,0.25,billable
+2013-04-03,ESPN,Fan Hall of Fame 2013,Concept & Planning,Andres,Conde,1.0,billable
+2013-04-03,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,2.0,billable
+2013-04-03,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.0,non-billable
+2013-04-03,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-03,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,1.0,billable
+2013-04-03,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,5.0,billable
+2013-04-03,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Estimation,Andres,Conde,1.0,non-billable
+2013-04-03,Hulu,The Awesomes - Site,BILLABLE Project Time,Kliford,Hernandez,0.5,billable
+2013-04-03,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Danny,Garcia,0.75,non-billable
+2013-04-03,Lionel Trains,Lionel Hub,Development,Danny,Garcia,1.0,billable
+2013-04-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-04-04,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-04-04,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-04-04,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-04-04,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-04-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,3.0,billable
+2013-04-04,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Peter,Volpe,1.0,non-billable
+2013-04-04,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,2.0,billable
+2013-04-04,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-04-04,Lionel Trains,Lionel Trailer and Logo,Logo Development,Christian,Kowalchuk,5.0,billable
+2013-04-04,ESPN,NFL Draft Bingo,Design & Development,Thomas,Ahn,7.0,billable
+2013-04-04,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.0,non-billable
+2013-04-04,Lionel Trains,Lionel Trailer and Logo,Logo Development,Ben,Danik,4.0,billable
+2013-04-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Estimation,Harrington,Joseph,1.0,non-billable
+2013-04-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Dinosaur Detail Page / Hero Production,Douglas,Hernandez,1.0,billable
+2013-04-04,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,2.0,billable
+2013-04-04,Lionel Trains,Lionel Hub,Discovery Phase,Sam,Horner,3.0,billable
+2013-04-04,Lionel Trains,Lionel Hub,Discovery Phase,Chris,Lin,5.0,billable
+2013-04-04,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,1.0,billable
+2013-04-04,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,2.5,billable
+2013-04-04,Lionel Trains,Lionel Trailer and Logo,Logo Development,Andres,Conde,3.0,billable
+2013-04-04,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Estimation,Andres,Conde,2.0,non-billable
+2013-04-04,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,0.25,billable
+2013-04-04,ESPN,NFL Draft Bingo,Design & Development,Danny,Garcia,3.17,billable
+2013-04-04,ESPN,NFL Draft Bingo,Design & Development,Chris,Lin,1.0,billable
+2013-04-04,Lionel Trains,Lionel Trailer and Logo,Logo Development,TJ,Tambellini,0.5,billable
+2013-04-05,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,0.25,billable
+2013-04-05,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,1.5,billable
+2013-04-05,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-05,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-04-05,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,2.0,non-billable
+2013-04-05,Lionel Trains,Lionel Hub,Discovery Phase,Paul,Valenzano,1.0,billable
+2013-04-05,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,1.0,billable
+2013-04-05,Lionel Trains,Lionel Trailer and Logo,Logo Development,TJ,Tambellini,0.5,billable
+2013-04-05,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-04-05,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Estimation,Harrington,Joseph,1.0,non-billable
+2013-04-05,ESPN,Fan Hall of Fame 2013,Concept & Planning,Danny,Garcia,0.5,billable
+2013-04-05,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,2.0,billable
+2013-04-05,Lionel Trains,Lionel Hub,Development,Jay,Weeks,6.5,billable
+2013-04-05,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,6.0,billable
+2013-04-05,Lionel Trains,Lionel Trailer and Logo,Logo Development,Andres,Conde,2.0,billable
+2013-04-05,ESPN,Fan Hall of Fame 2013,Concept & Planning,Andres,Conde,1.0,billable
+2013-04-05,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,1.0,non-billable
+2013-04-05,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,2.0,billable
+2013-04-05,ESPN,NFL Draft Bingo,Concept & Planning,Zach,Glass,0.5,billable
+2013-04-05,Lionel Trains,Lionel Hub,Discovery Phase,Sam,Horner,3.0,billable
+2013-04-05,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-04-05,ESPN,NFL Draft Bingo,Design & Development,Thomas,Ahn,5.0,billable
+2013-04-05,Lionel Trains,Lionel Trailer and Logo,Logo Development,Christian,Kowalchuk,4.0,billable
+2013-04-05,Lionel Trains,Lionel Trailer and Logo,Logo Development,Ben,Danik,8.0,billable
+2013-04-05,ESPN,NFL Draft Bingo,Design & Development,Danny,Garcia,0.52,billable
+2013-04-05,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,3.27,billable
+2013-04-08,Lionel Trains,Lionel Trailer and Logo,Logo Development,Christian,Kowalchuk,4.0,billable
+2013-04-08,ESPN,Fan Hall of Fame 2013,Concept & Planning,Danny,Garcia,0.07,billable
+2013-04-08,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,3.0,non-billable
+2013-04-08,Hulu,The Awesomes - Site,BILLABLE Project Time,Mark,Miscavage,1.0,billable
+2013-04-08,ESPN,NFL Draft Bingo,Design & Development,Thomas,Ahn,4.0,billable
+2013-04-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,7.0,billable
+2013-04-08,Lionel Trains,Lionel Trailer and Logo,Logo Development,TJ,Tambellini,0.5,billable
+2013-04-08,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-08,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,0.5,billable
+2013-04-08,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-04-08,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-04-08,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-04-08,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-04-08,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,8.0,billable
+2013-04-08,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,3.5,billable
+2013-04-08,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,3.0,non-billable
+2013-04-08,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-08,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-04-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,4.82,billable
+2013-04-09,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-09,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,8.0,billable
+2013-04-09,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,5.0,non-billable
+2013-04-09,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-04-09,ESPN,NFL Draft Bingo,Design & Development,Thomas,Ahn,4.0,billable
+2013-04-09,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-04-09,ESPN,NFL Draft Bingo,Design & Development,Danny,Garcia,6.62,billable
+2013-04-09,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-04-09,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,2.0,billable
+2013-04-09,Lionel Trains,Lionel Battle Train Site,Design,Andres,Conde,1.0,billable
+2013-04-09,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,4.5,billable
+2013-04-09,Lionel Trains,Lionel Hub,Development,Jay,Weeks,7.0,billable
+2013-04-09,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-04-09,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-04-09,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-04-09,Hulu,The Awesomes - Site,BILLABLE Project Time,Mark,Miscavage,2.5,billable
+2013-04-09,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-04-09,Lionel Trains,Lionel Trailer and Logo,Logo Development,TJ,Tambellini,0.5,billable
+2013-04-09,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-09,Lionel Trains,Lionel Hub,Discovery Phase,Paul,Valenzano,1.0,billable
+2013-04-09,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Chris,Lin,5.0,non-billable
+2013-04-10,Lionel Trains,Lionel Trailer and Logo,Logo Development,TJ,Tambellini,0.5,billable
+2013-04-10,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-10,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Chris,Lin,11.0,non-billable
+2013-04-10,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,4.0,billable
+2013-04-10,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-04-10,Fox Theatrical,WWD The Movie,Panorama Prototyping,Danny,Garcia,3.75,billable
+2013-04-10,Hulu,The Awesomes - Site,BILLABLE Project Time,Mark,Miscavage,3.0,billable
+2013-04-10,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,3.0,billable
+2013-04-10,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-04-10,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-10,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,4.5,billable
+2013-04-10,Fox Theatrical,WWD The Movie,Panorama Prototyping,Douglas,Hernandez,6.0,billable
+2013-04-10,ESPN,Fan Hall of Fame 2013,Concept & Planning,Andres,Conde,1.0,billable
+2013-04-10,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,2.0,billable
+2013-04-10,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-04-10,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Estimation,Danny,Garcia,1.0,non-billable
+2013-04-10,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-04-10,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-04-10,ESPN,NFL Draft Bingo,Design & Development,Danny,Garcia,1.75,billable
+2013-04-10,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Estimation,Andres,Conde,1.0,non-billable
+2013-04-10,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-04-10,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,0.5,billable
+2013-04-10,ESPN,NFL Draft Bingo,Design & Development,Thomas,Ahn,3.0,billable
+2013-04-10,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,6.0,non-billable
+2013-04-11,ESPN,NFL Draft Bingo,Design & Development,Danny,Garcia,1.78,billable
+2013-04-11,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,2.0,non-billable
+2013-04-11,RED Interactive Agency,Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-04-11,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-04-11,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-04-11,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-11,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,7.0,billable
+2013-04-11,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-04-11,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,3.5,billable
+2013-04-11,Fox Theatrical,WWD The Movie,Panorama Prototyping,Danny,Garcia,4.33,billable
+2013-04-11,Lionel Trains,Lionel Trailer and Logo,Logo Development,TJ,Tambellini,1.0,billable
+2013-04-11,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,3.0,billable
+2013-04-11,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-04-11,Fox Theatrical,WWD The Movie,Panorama Prototyping,Douglas,Hernandez,7.5,billable
+2013-04-11,ESPN,NFL Draft Bingo,Design & Development,Thomas,Ahn,2.0,billable
+2013-04-11,Hulu,The Awesomes - Site,BILLABLE Project Time,Kliford,Hernandez,0.5,billable
+2013-04-11,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,6.0,non-billable
+2013-04-11,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.5,non-billable
+2013-04-11,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Chris,Lin,9.0,non-billable
+2013-04-11,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,1.0,billable
+2013-04-12,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,5.0,billable
+2013-04-12,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,5.0,non-billable
+2013-04-12,Lionel Trains,Lionel Trailer and Logo,Logo Development,TJ,Tambellini,0.5,billable
+2013-04-12,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-12,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,0.5,billable
+2013-04-12,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-04-12,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Chris,Lin,8.0,non-billable
+2013-04-12,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,2.0,non-billable
+2013-04-12,RED Interactive Agency,Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-04-12,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-04-12,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-04-12,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,4.0,billable
+2013-04-12,Hulu,The Awesomes - Site,BILLABLE Project Time,Douglas,Hernandez,3.5,billable
+2013-04-12,Lionel Trains,Lionel Hub,Development,Jay,Weeks,6.5,billable
+2013-04-12,Fox Theatrical,WWD The Movie,Panorama Prototyping,Douglas,Hernandez,4.0,billable
+2013-04-12,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-04-12,Fox Theatrical,WWD The Movie,Panorama Prototyping,Danny,Garcia,5.5,billable
+2013-04-12,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,1.0,billable
+2013-04-15,Lionel Trains,Lionel Trailer and Logo,Trailer,TJ,Tambellini,2.0,billable
+2013-04-15,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-15,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-04-15,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,3.0,billable
+2013-04-15,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,6.0,non-billable
+2013-04-15,Lionel Trains,Lionel Trailer and Logo,Logo Development,Andres,Conde,1.0,billable
+2013-04-15,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,4.0,billable
+2013-04-15,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-04-15,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Chris,Lin,12.5,non-billable
+2013-04-15,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,3.0,billable
+2013-04-15,Fox Theatrical,WWD The Movie,Design,Douglas,Hernandez,2.5,billable
+2013-04-15,Fox Theatrical,WWD The Movie,Development,Danny,Garcia,1.18,billable
+2013-04-15,Hulu,The Awesomes - Site,BILLABLE Project Time,Douglas,Hernandez,4.5,billable
+2013-04-15,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,4.27,billable
+2013-04-15,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,4.0,non-billable
+2013-04-15,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-04-15,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,8.0,billable
+2013-04-15,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-04-15,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,6.0,billable
+2013-04-16,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,8.0,billable
+2013-04-16,Lionel Trains,Lionel Hub,Development,Jay,Weeks,7.0,billable
+2013-04-16,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,4.0,billable
+2013-04-16,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,7.0,billable
+2013-04-16,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Chris,Lin,9.0,non-billable
+2013-04-16,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,4.0,billable
+2013-04-16,Fox Theatrical,WWD The Movie,Project Definition,Danny,Garcia,2.0,non-billable
+2013-04-16,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Danny,Garcia,1.5,non-billable
+2013-04-16,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,1.0,billable
+2013-04-16,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-04-16,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Andres,Conde,1.0,non-billable
+2013-04-16,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Paul,Valenzano,1.0,non-billable
+2013-04-16,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,6.0,non-billable
+2013-04-16,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,1.0,billable
+2013-04-16,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,2.0,non-billable
+2013-04-16,RED Interactive Agency,Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-04-16,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Peter,Volpe,1.5,non-billable
+2013-04-16,Lionel Trains,Lionel Hub,Discovery Phase,Paul,Valenzano,1.0,billable
+2013-04-16,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,4.0,non-billable
+2013-04-16,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-04-16,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-16,Fox Theatrical,WWD The Movie,Design,Douglas,Hernandez,6.5,billable
+2013-04-16,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-04-17,Fox Theatrical,WWD The Movie,Project Definition,Paul,Valenzano,1.0,non-billable
+2013-04-17,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-04-17,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,7.0,billable
+2013-04-17,Fox Theatrical,WWD The Movie,Design,Douglas,Hernandez,6.5,billable
+2013-04-17,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,2.0,non-billable
+2013-04-17,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,4.0,non-billable
+2013-04-17,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,5.0,billable
+2013-04-17,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-04-17,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-04-17,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,1.0,billable
+2013-04-17,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,6.0,non-billable
+2013-04-17,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,0.5,billable
+2013-04-17,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,1.0,billable
+2013-04-17,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,3.0,billable
+2013-04-17,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-04-17,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,3.85,billable
+2013-04-17,ESPN,Fan Hall of Fame 2013,Concept & Planning,Danny,Garcia,0.25,billable
+2013-04-17,Fox Theatrical,WWD The Movie,Development,Danny,Garcia,1.0,billable
+2013-04-18,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Peter,Volpe,1.5,non-billable
+2013-04-18,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Danny,Garcia,2.0,non-billable
+2013-04-18,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-04-18,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,2.0,non-billable
+2013-04-18,Fox Theatrical,WWD The Movie,Design,Douglas,Hernandez,6.0,billable
+2013-04-18,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,4.0,billable
+2013-04-18,Lionel Trains,Lionel Trailer and Logo,Logo Development,Andres,Conde,1.0,billable
+2013-04-18,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,14.0,billable
+2013-04-18,Lionel Trains,Lionel Battle Train Site,Design,Andres,Conde,1.0,billable
+2013-04-18,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-04-18,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,2.0,billable
+2013-04-18,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Andres,Conde,2.0,non-billable
+2013-04-18,RED Interactive Agency,Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-04-18,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-18,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,8.0,billable
+2013-04-18,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-04-18,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-04-18,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,5.85,billable
+2013-04-18,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,0.5,billable
+2013-04-18,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,5.27,billable
+2013-04-19,RED Interactive Agency,Business Development,Onsite Meeting / Conference Call,Paul,Valenzano,3.0,non-billable
+2013-04-19,ESPN,NFL Draft Bingo,Design & Development,Thomas,Ahn,4.0,billable
+2013-04-19,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,7.0,billable
+2013-04-19,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-04-19,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,8.0,billable
+2013-04-19,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,4.0,billable
+2013-04-19,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,5.0,billable
+2013-04-19,Fox Theatrical,WWD The Movie,Design,Douglas,Hernandez,6.5,billable
+2013-04-19,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-19,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,4.0,billable
+2013-04-19,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,5.22,billable
+2013-04-19,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Danny,Garcia,0.25,non-billable
+2013-04-19,Lionel Trains,Lionel Hub,Development,Jay,Weeks,7.0,billable
+2013-04-19,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-04-19,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,2.0,non-billable
+2013-04-20,ESPN,NFL Draft Bingo,Design & Development,Thomas,Ahn,1.0,billable
+2013-04-22,Lionel Trains,Lionel Hub,Discovery Phase,Danny,Garcia,1.5,billable
+2013-04-22,Fox Theatrical,WWD The Movie,Development,Danny,Garcia,6.0,billable
+2013-04-22,Fox Theatrical,WWD The Movie,Project Definition,Andres,Conde,1.0,non-billable
+2013-04-22,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,4.0,billable
+2013-04-22,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,4.0,billable
+2013-04-22,Lionel Trains,Lionel Battle Train Site,Design,Andres,Conde,2.0,billable
+2013-04-22,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-04-22,Fox Theatrical,WWD The Movie,Design,Douglas,Hernandez,8.0,billable
+2013-04-22,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-04-22,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-04-22,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,7.0,billable
+2013-04-22,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,8.0,billable
+2013-04-22,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,3.0,non-billable
+2013-04-22,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-22,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,2.0,billable
+2013-04-22,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.5,non-billable
+2013-04-22,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,6.5,billable
+2013-04-22,Lionel Trains,Lionel Hub,Discovery Phase,Sam,Horner,0.5,billable
+2013-04-22,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-22,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,5.0,billable
+2013-04-22,Lionel Trains,Lionel Trailer and Logo,Trailer,TJ,Tambellini,1.0,billable
+2013-04-22,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-04-22,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-04-23,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,1.0,billable
+2013-04-23,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-23,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,2.0,billable
+2013-04-23,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.0,non-billable
+2013-04-23,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,3.0,billable
+2013-04-23,Lionel Trains,Lionel Hub,Development,Danny,Garcia,0.25,billable
+2013-04-23,Fox Theatrical,WWD The Movie,Project Definition,Danny,Garcia,0.5,non-billable
+2013-04-23,Fox Theatrical,WWD The Movie,Development,Danny,Garcia,2.0,billable
+2013-04-23,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,4.0,billable
+2013-04-23,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-04-23,Lionel Trains,Lionel Trailer and Logo,Trailer,TJ,Tambellini,1.0,billable
+2013-04-23,Lionel Trains,Lionel Hub,Discovery Phase,Paul,Valenzano,1.0,billable
+2013-04-23,Lionel Trains,Lionel Trailer and Logo,Misc Requests,Brad,Mettey,3.0,billable
+2013-04-23,Fox Theatrical,WWD The Movie,Project Definition,Paul,Valenzano,1.0,non-billable
+2013-04-23,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,4.0,billable
+2013-04-23,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-04-23,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,7.0,billable
+2013-04-23,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,8.0,billable
+2013-04-23,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-04-23,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,4.0,billable
+2013-04-23,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-04-23,Lionel Trains,Lionel Hub,Development,Jay,Weeks,7.0,billable
+2013-04-23,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,3.0,billable
+2013-04-23,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,2.0,billable
+2013-04-23,Lionel Trains,Lionel Trailer and Logo,Logo Development,Andres,Conde,2.0,billable
+2013-04-23,Fox Theatrical,WWD The Movie,Project Definition,Andres,Conde,1.0,non-billable
+2013-04-23,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,2.0,billable
+2013-04-23,Lionel Trains,Lionel Battle Train Site,Design,Andres,Conde,1.0,billable
+2013-04-23,Fox Theatrical,WWD The Movie,Design,Douglas,Hernandez,8.0,billable
+2013-04-23,ESPN,Fan Hall of Fame 2013,Concept & Planning,Danny,Garcia,0.17,billable
+2013-04-23,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-04-24,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-04-24,Hulu,The Awesomes - Site,BILLABLE Project Time,Douglas,Hernandez,5.0,billable
+2013-04-24,ESPN,NFL Draft Bingo,Design & Development,Thomas,Ahn,2.0,billable
+2013-04-24,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-04-24,ESPN,Fan Hall of Fame 2013,Concept & Planning,Zach,Glass,1.0,billable
+2013-04-24,Lionel Trains,Lionel Hub,Design,Chris,Lin,4.0,billable
+2013-04-24,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,4.0,billable
+2013-04-24,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,4.0,billable
+2013-04-24,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,3.0,billable
+2013-04-24,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-04-24,Fox Theatrical,WWD The Movie,Project Definition,Paul,Valenzano,1.0,non-billable
+2013-04-24,ESPN,Fan Hall of Fame 2013,Concept & Planning,Danny,Garcia,1.0,billable
+2013-04-24,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-04-24,Lionel Trains,Lionel Hub,Discovery Phase,Danny,Garcia,2.0,billable
+2013-04-24,ESPN,NFL Draft Bingo,Design & Development,Danny,Garcia,4.0,billable
+2013-04-24,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-24,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-04-24,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,3.5,billable
+2013-04-24,Lionel Trains,Lionel Trailer and Logo,Trailer,TJ,Tambellini,1.0,billable
+2013-04-24,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,7.0,billable
+2013-04-24,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,3.0,billable
+2013-04-24,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-04-24,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,1.0,billable
+2013-04-24,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-04-24,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,4.0,billable
+2013-04-24,Fox Theatrical,WWD The Movie,Design,Douglas,Hernandez,4.0,billable
+2013-04-24,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-25,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,3.0,billable
+2013-04-25,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-04-25,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,7.0,billable
+2013-04-25,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-04-25,Fox Theatrical,WWD The Movie,Project Definition,Andres,Conde,1.0,non-billable
+2013-04-25,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-04-25,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,3.0,billable
+2013-04-25,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-25,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-04-25,Hulu,The Awesomes - Site,BILLABLE Project Time,Mark,Miscavage,1.0,billable
+2013-04-25,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-04-25,Lionel Trains,Lionel Trailer and Logo,Trailer,TJ,Tambellini,1.0,billable
+2013-04-25,Fox Theatrical,WWD The Movie,Project Definition,Paul,Valenzano,1.0,non-billable
+2013-04-25,Lionel Trains,Lionel Trailer and Logo,Logo Development,Andres,Conde,1.0,billable
+2013-04-25,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,2.0,billable
+2013-04-25,Lionel Trains,Lionel Hub,Discovery Phase,Sam,Horner,1.0,billable
+2013-04-25,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-25,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,5.0,billable
+2013-04-25,Fox Theatrical,WWD The Movie,Design,Douglas,Hernandez,7.0,billable
+2013-04-25,ESPN,NFL Draft Bingo,Design & Development,Danny,Garcia,3.0,billable
+2013-04-25,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,7.0,billable
+2013-04-25,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,3.0,billable
+2013-04-25,ESPN,NFL Draft Bingo,Design & Development,Thomas,Ahn,2.0,billable
+2013-04-25,ESPN,NFL Draft Bingo,Design & Development,Chris,Lin,1.0,billable
+2013-04-25,Lionel Trains,Lionel Hub,Design,Chris,Lin,7.0,billable
+2013-04-25,Lionel Trains,Lionel Hub,Development,Jay,Weeks,7.0,billable
+2013-04-26,Lionel Trains,Lionel Hub,Design,Chris,Lin,8.0,billable
+2013-04-26,Fox Theatrical,WWD The Movie,Panorama Prototyping,Douglas,Hernandez,3.0,billable
+2013-04-26,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,2.0,billable
+2013-04-26,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,6.0,billable
+2013-04-26,Fox Theatrical,WWD The Movie,Design,Douglas,Hernandez,4.0,billable
+2013-04-26,Lionel Trains,Lionel Trailer and Logo,Logo Development,Andres,Conde,1.0,billable
+2013-04-26,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,4.0,billable
+2013-04-26,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,1.0,billable
+2013-04-26,Fox Theatrical,WWD The Movie,Project Definition,Andres,Conde,1.0,non-billable
+2013-04-26,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Estimation,Andres,Conde,1.0,non-billable
+2013-04-26,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-04-26,Fox Theatrical,WWD The Movie,Project Definition,Paul,Valenzano,2.0,non-billable
+2013-04-26,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-26,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,3.0,billable
+2013-04-26,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-04-26,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-04-26,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-04-26,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,7.0,billable
+2013-04-29,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,1.0,non-billable
+2013-04-29,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,1.0,billable
+2013-04-29,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,8.0,billable
+2013-04-29,Lionel Trains,Lionel Hub,Discovery Phase,Sam,Horner,1.0,billable
+2013-04-29,Lionel Trains,Lionel Trailer and Logo,Trailer,TJ,Tambellini,1.0,billable
+2013-04-29,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-29,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,2.0,billable
+2013-04-29,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-04-29,Fox Theatrical,WWD The Movie,Panorama Prototyping,Douglas,Hernandez,8.0,billable
+2013-04-29,Lionel Trains,Lionel Hub,Development,Jay,Weeks,7.5,billable
+2013-04-29,Fox Theatrical,WWD The Movie,Development,Danny,Garcia,8.5,billable
+2013-04-29,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-04-29,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.0,non-billable
+2013-04-29,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,5.5,billable
+2013-04-29,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,6.0,billable
+2013-04-29,Lionel Trains,Lionel Hub,Design,Chris,Lin,9.0,billable
+2013-04-29,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,1.0,billable
+2013-04-29,RED Interactive Agency,Business Development,Proposal Writing,Paul,Valenzano,3.0,non-billable
+2013-04-29,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-04-29,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-04-29,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-04-29,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-30,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-04-30,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,2.0,billable
+2013-04-30,RED Interactive Agency,Business Development,Proposal Writing,Paul,Valenzano,2.0,non-billable
+2013-04-30,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-04-30,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-04-30,Lionel Trains,Lionel Hub,Discovery Phase,Paul,Valenzano,1.0,billable
+2013-04-30,ESPN,Fan Hall of Fame 2013,Concept & Planning,Zach,Glass,1.0,billable
+2013-04-30,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,7.0,billable
+2013-04-30,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,5.0,billable
+2013-04-30,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,2.0,billable
+2013-04-30,Lionel Trains,Lionel Hub,Design,Chris,Lin,4.0,billable
+2013-04-30,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,4.0,billable
+2013-04-30,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.0,non-billable
+2013-04-30,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,4.5,billable
+2013-04-30,Lionel Trains,Lionel Hub,Development,Jay,Weeks,5.0,billable
+2013-04-30,Fox Theatrical,WWD The Movie,Development,Danny,Garcia,7.5,billable
+2013-04-30,Fox Theatrical,WWD The Movie,Panorama Prototyping,Douglas,Hernandez,8.0,billable
+2013-04-30,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,3.0,billable
+2013-04-30,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-04-30,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,2.0,billable
+2013-04-30,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-04-30,ESPN,Fan Hall of Fame 2013,Concept & Planning,Andres,Conde,1.0,billable
+2013-04-30,Lionel Trains,Lionel Trailer and Logo,Trailer,TJ,Tambellini,1.0,billable
+2013-04-30,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-01,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,2.0,billable
+2013-05-01,Lionel Trains,Lionel Hub,Discovery Phase,Sam,Horner,3.0,billable
+2013-05-01,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-05-01,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,8.0,billable
+2013-05-01,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,4.5,billable
+2013-05-01,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,7.0,billable
+2013-05-01,ESPN,Fan Hall of Fame 2013,Concept & Planning,Andres,Conde,1.0,billable
+2013-05-01,Lionel Trains,Lionel Trailer and Logo,Trailer,TJ,Tambellini,0.25,billable
+2013-05-01,Lionel Trains,Lionel Trailer and Logo,Trailer,Chris,Lin,8.0,billable
+2013-05-01,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-05-01,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-01,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,4.0,billable
+2013-05-01,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,4.0,billable
+2013-05-01,Fox Theatrical,WWD The Movie,Development,Danny,Garcia,6.0,billable
+2013-05-01,ESPN,Fan Hall of Fame 2013,Concept & Planning,Douglas,Hernandez,7.0,billable
+2013-05-01,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-05-01,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-05-01,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-05-01,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,4.0,billable
+2013-05-01,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-05-01,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-02,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Danny,Garcia,1.0,non-billable
+2013-05-02,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,7.0,billable
+2013-05-02,Lionel Trains,Lionel Hub,Discovery Phase,Danny,Garcia,1.0,billable
+2013-05-02,Fox Theatrical,WWD The Movie,Development,Danny,Garcia,4.5,billable
+2013-05-02,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,3.5,billable
+2013-05-02,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-05-02,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,4.0,billable
+2013-05-02,Lionel Trains,Lionel Trailer and Logo,Trailer,TJ,Tambellini,0.25,billable
+2013-05-02,Fox Theatrical,WWD The Movie,Project Definition,Paul,Valenzano,1.0,non-billable
+2013-05-02,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,2.0,billable
+2013-05-02,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,1.0,billable
+2013-05-02,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-05-02,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,3.0,billable
+2013-05-02,Lionel Trains,Lionel Battle Train Site,Discovery Phase,Anna,Yovandich,1.0,billable
+2013-05-02,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-05-02,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-05-02,Lionel Trains,Lionel Trailer and Logo,Trailer,Chris,Lin,4.0,billable
+2013-05-02,Lionel Trains,Lionel Battle Train Site,Design,Andres,Conde,1.0,billable
+2013-05-02,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-02,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-05-02,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,1.0,billable
+2013-05-02,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-02,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,2.0,billable
+2013-05-02,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,2.0,billable
+2013-05-02,ESPN,Fan Hall of Fame 2013,Concept & Planning,Douglas,Hernandez,8.0,billable
+2013-05-02,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Paul,Valenzano,0.5,non-billable
+2013-05-03,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-05-03,ESPN,Fan Hall of Fame 2013,Concept & Planning,Douglas,Hernandez,6.5,billable
+2013-05-03,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,1.0,billable
+2013-05-03,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,0.5,non-billable
+2013-05-03,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-03,Lionel Trains,Lionel Hub,Design,Chris,Lin,7.0,billable
+2013-05-03,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,2.0,billable
+2013-05-03,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-03,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Project Management,Paul,Valenzano,1.0,billable
+2013-05-03,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-05-03,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-05-03,Fox Theatrical,WWD The Movie,Project Definition,Paul,Valenzano,1.0,non-billable
+2013-05-03,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,8.0,billable
+2013-05-03,Lionel Trains,Lionel Trailer and Logo,Trailer,TJ,Tambellini,0.25,billable
+2013-05-03,Lionel Trains,Lionel Trailer and Logo,Logo Development,Andres,Conde,1.0,billable
+2013-05-03,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,2.0,billable
+2013-05-03,Lionel Trains,Lionel Hub,Development,Jay,Weeks,7.0,billable
+2013-05-03,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,2.0,billable
+2013-05-03,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,6.0,billable
+2013-05-03,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,6.0,billable
+2013-05-03,Fox Theatrical,WWD The Movie,Development,Danny,Garcia,4.5,billable
+2013-05-03,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.5,non-billable
+2013-05-06,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-05-06,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,3.0,billable
+2013-05-06,ESPN,Fan Hall of Fame 2013,Concept & Planning,Andres,Conde,1.0,billable
+2013-05-06,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,6.0,billable
+2013-05-06,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,4.0,billable
+2013-05-06,Hulu,The Awesomes - Site,BILLABLE Project Time,Kliford,Hernandez,1.0,billable
+2013-05-06,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-06,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-06,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,7.0,billable
+2013-05-06,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,4.0,billable
+2013-05-06,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,4.0,billable
+2013-05-06,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-05-06,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,8.0,billable
+2013-05-06,ESPN,Fan Hall of Fame 2013,Design,Douglas,Hernandez,8.0,billable
+2013-05-06,RED Interactive Agency,Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-05-06,Fox Theatrical,WWD The Movie,Project Management,Paul,Valenzano,1.0,billable
+2013-05-06,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-05-06,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,3.0,non-billable
+2013-05-06,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Enhancement & Polish,Danny,Garcia,6.5,non-billable
+2013-05-06,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-05-06,Lionel Trains,Lionel Hub,Design,Chris,Lin,8.0,billable
+2013-05-06,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-05-07,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.5,billable
+2013-05-07,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,8.0,billable
+2013-05-07,Lionel Trains,Lionel Hub,Design,Chris,Lin,8.0,billable
+2013-05-07,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,5.0,billable
+2013-05-07,ESPN,Fan Hall of Fame 2013,Concept & Planning,Andres,Conde,1.0,billable
+2013-05-07,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,6.0,billable
+2013-05-07,Hulu,The Awesomes - Site,BILLABLE Project Time,Mark,Miscavage,4.0,billable
+2013-05-07,ESPN,Fan Hall of Fame 2013,Design,Douglas,Hernandez,8.0,billable
+2013-05-07,Hulu,The Awesomes - Site,BILLABLE Project Time,Kliford,Hernandez,1.0,billable
+2013-05-07,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-05-07,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,4.0,billable
+2013-05-07,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Peter,Volpe,0.5,non-billable
+2013-05-07,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,3.0,non-billable
+2013-05-07,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-05-07,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-05-07,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-05-07,Lionel Trains,Lionel Hub,Discovery Phase,Paul,Valenzano,1.0,billable
+2013-05-07,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-05-07,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,1.0,billable
+2013-05-07,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Enhancement & Polish,Danny,Garcia,5.5,non-billable
+2013-05-07,Lionel Trains,Lionel Hub,Development,Jay,Weeks,7.0,billable
+2013-05-07,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,3.0,billable
+2013-05-07,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,2.0,non-billable
+2013-05-07,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-07,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,2.0,billable
+2013-05-08,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-08,Hulu,The Awesomes - Site,BILLABLE Project Time,Danny,Garcia,4.0,billable
+2013-05-08,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-05-08,Hulu,The Awesomes - Site,BILLABLE Project Time,Mark,Miscavage,2.0,billable
+2013-05-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Enhancement & Polish,Danny,Garcia,3.0,non-billable
+2013-05-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Estimation,Harrington,Joseph,1.0,non-billable
+2013-05-08,Fox Theatrical,WWD The Movie,Development,Harrington,Joseph,1.0,billable
+2013-05-08,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,3.0,non-billable
+2013-05-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,2.0,billable
+2013-05-08,RED Interactive Agency,Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-05-08,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-05-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-05-08,Fox Theatrical,WWD The Movie,Project Definition,Paul,Valenzano,1.0,non-billable
+2013-05-08,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-05-08,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-08,ESPN,Fan Hall of Fame 2013,Concept & Planning,Andres,Conde,1.0,billable
+2013-05-08,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-05-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Dinosaur Detail Page / Hero Production,Douglas,Hernandez,1.0,billable
+2013-05-08,ESPN,Fan Hall of Fame 2013,Design,Douglas,Hernandez,2.0,billable
+2013-05-08,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,6.0,billable
+2013-05-08,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,7.0,billable
+2013-05-08,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,9.0,billable
+2013-05-08,Lionel Trains,Lionel Hub,Design,Chris,Lin,8.0,billable
+2013-05-08,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Estimation,Andres,Conde,1.0,non-billable
+2013-05-09,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,5.0,billable
+2013-05-09,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,9.0,billable
+2013-05-09,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Estimation,Danny,Garcia,0.5,non-billable
+2013-05-09,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-05-09,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-09,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,3.0,non-billable
+2013-05-09,Fox Theatrical,WWD The Movie,Project Definition,Paul,Valenzano,3.0,non-billable
+2013-05-09,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-05-09,Hulu,The Awesomes - Site,BILLABLE Project Time,Danny,Garcia,6.0,billable
+2013-05-09,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-09,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,6.0,billable
+2013-05-09,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-05-09,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-05-09,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-05-09,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Estimation,Harrington,Joseph,2.0,non-billable
+2013-05-09,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,4.0,billable
+2013-05-09,Lionel Trains,Lionel Hub,Design,Chris,Lin,4.0,billable
+2013-05-10,Lionel Trains,Lionel Hub,Development,Jay,Weeks,7.0,billable
+2013-05-10,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,6.0,billable
+2013-05-10,Hulu,The Awesomes - Site,BILLABLE Project Time,Danny,Garcia,6.5,billable
+2013-05-10,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-05-10,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,4.0,non-billable
+2013-05-10,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,6.5,billable
+2013-05-10,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,2.0,non-billable
+2013-05-10,RED Interactive Agency,Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-05-10,Lionel Trains,Lionel Hub,Design,Chris,Lin,7.0,billable
+2013-05-10,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,8.0,billable
+2013-05-13,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,2.38,billable
+2013-05-13,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,2.0,billable
+2013-05-13,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,2.0,non-billable
+2013-05-13,Lionel Trains,Lionel Trailer and Logo,Logo Development,Andres,Conde,1.0,billable
+2013-05-13,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,1.0,billable
+2013-05-13,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,5.0,billable
+2013-05-13,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,3.0,billable
+2013-05-13,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-05-13,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-13,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,5.0,billable
+2013-05-13,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,8.0,billable
+2013-05-13,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-13,Hulu,The Awesomes - Site,BILLABLE Project Time,Christian,Harden,5.0,billable
+2013-05-13,Lionel Trains,Lionel Hub,Discovery Phase,Paul,Valenzano,1.0,billable
+2013-05-13,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-05-13,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,3.0,non-billable
+2013-05-13,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,2.0,non-billable
+2013-05-13,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-05-13,ESPN,Fan Hall of Fame 2013,Concept & Planning,Zach,Glass,0.5,billable
+2013-05-13,Lionel Trains,Lionel Hub,Design,Chris,Lin,8.0,billable
+2013-05-13,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.0,non-billable
+2013-05-13,ESPN,Fan Hall of Fame 2013,Design,Douglas,Hernandez,7.0,billable
+2013-05-14,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-14,Lionel Trains,Lionel Hub,Design,Chris,Lin,8.0,billable
+2013-05-14,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-05-14,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,5.0,billable
+2013-05-14,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,3.0,billable
+2013-05-14,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,6.0,billable
+2013-05-14,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Peter,Volpe,0.5,non-billable
+2013-05-14,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.0,non-billable
+2013-05-14,Hulu,The Awesomes - Site,BILLABLE Project Time,Mark,Miscavage,3.0,billable
+2013-05-14,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,5.0,billable
+2013-05-14,Hulu,The Awesomes - Site,BILLABLE Project Time,Christian,Harden,5.0,billable
+2013-05-14,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,9.0,billable
+2013-05-14,ESPN,Fan Hall of Fame 2013,Design,Douglas,Hernandez,7.0,billable
+2013-05-14,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,6.0,billable
+2013-05-14,Fox Theatrical,WWD The Movie,Account Management,Andres,Conde,3.0,non-billable
+2013-05-14,BBC,Walking with Dinosaurs - Biz Dev,Conference Calls & Meetings,Paul,Valenzano,2.0,non-billable
+2013-05-14,ESPN,Fan Hall of Fame 2013,Concept & Planning,Zach,Glass,0.5,billable
+2013-05-14,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-05-14,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,2.0,billable
+2013-05-14,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-05-14,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.5,billable
+2013-05-14,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,3.0,non-billable
+2013-05-14,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-05-14,Lionel Trains,Lionel Hub,Discovery Phase,Paul,Valenzano,1.0,billable
+2013-05-14,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,3.0,non-billable
+2013-05-15,Fox Theatrical,WWD The Movie,Account Management,Paul,Valenzano,2.0,non-billable
+2013-05-15,Lionel Trains,Lionel Hub,Design,Chris,Lin,6.0,billable
+2013-05-15,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-15,Lionel Trains,Lionel Hub,Development,Jay,Weeks,7.0,billable
+2013-05-15,Lionel Trains,Lionel Hub,Discovery Phase,Sam,Horner,3.0,billable
+2013-05-15,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-05-15,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Andres,Conde,2.0,non-billable
+2013-05-15,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-05-15,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Peter,Volpe,0.5,non-billable
+2013-05-15,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-05-15,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,1.0,billable
+2013-05-15,Lionel Trains,Lionel Battle Train Site,Design,Andres,Conde,2.0,billable
+2013-05-15,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,2.0,billable
+2013-05-15,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.0,non-billable
+2013-05-15,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,9.0,billable
+2013-05-15,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-05-15,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,3.0,billable
+2013-05-15,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,6.0,billable
+2013-05-15,Hulu,The Awesomes - Site,BILLABLE Project Time,Andres,Conde,1.0,billable
+2013-05-15,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,8.0,billable
+2013-05-15,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-05-15,Hulu,The Awesomes - Site,BILLABLE Project Time,Christian,Harden,6.0,billable
+2013-05-15,Lionel Trains,Lionel Hub,Discovery Phase,Paul,Valenzano,1.0,billable
+2013-05-15,Lionel Trains,Lionel Hub,Discovery Phase,Andres,Conde,1.0,billable
+2013-05-15,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-15,Lionel Trains,Lionel Hub,Development,Danny,Garcia,2.5,billable
+2013-05-15,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Danny,Garcia,2.0,billable
+2013-05-15,ESPN,Fan Hall of Fame 2013,Design,Douglas,Hernandez,7.0,billable
+2013-05-15,Lionel Trains,Lionel Hub,Account Management,Danny,Garcia,2.0,non-billable
+2013-05-16,Lionel Trains,Lionel Hub,Design,Chris,Lin,3.0,billable
+2013-05-16,Lionel Trains,Lionel Hub,Development,Danny,Garcia,5.5,billable
+2013-05-16,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,1.0,billable
+2013-05-16,ESPN,Fan Hall of Fame 2013,Design,Douglas,Hernandez,7.0,billable
+2013-05-16,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,8.0,billable
+2013-05-16,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-16,Hulu,The Awesomes - Site,BILLABLE Project Time,Christian,Harden,5.0,billable
+2013-05-16,Lionel Trains,Lionel Hub,Discovery Phase,Sam,Horner,3.0,billable
+2013-05-16,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,2.0,non-billable
+2013-05-16,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-05-16,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,6.0,billable
+2013-05-16,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,3.0,billable
+2013-05-16,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-05-16,ESPN,Fan Hall of Fame 2013,Concept & Planning,Andres,Conde,1.0,billable
+2013-05-16,Fox Theatrical,WWD The Movie,Project Definition,Andres,Conde,6.0,non-billable
+2013-05-16,Hulu,The Awesomes - Site,BILLABLE Project Time,Mark,Miscavage,2.0,billable
+2013-05-16,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,6.0,billable
+2013-05-16,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.5,billable
+2013-05-16,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,1.0,non-billable
+2013-05-16,Lionel Trains,Lionel Battle Train Site,Design,Andres,Conde,1.0,billable
+2013-05-16,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-16,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-05-16,Fox Theatrical,WWD The Movie,Account Management,Paul,Valenzano,3.0,non-billable
+2013-05-16,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-05-17,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-17,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-17,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-05-17,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,5.0,billable
+2013-05-17,Hulu,The Awesomes - Site,BILLABLE Project Time,Christian,Harden,4.0,billable
+2013-05-17,Lionel Trains,Lionel Hub,Discovery Phase,Sam,Horner,3.0,billable
+2013-05-17,Lionel Trains,Lionel Hub,Development,Danny,Garcia,5.0,billable
+2013-05-17,Lionel Trains,Lionel Hub,Account Management,Danny,Garcia,1.5,non-billable
+2013-05-17,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-05-17,RED Interactive Agency,Business Development,Onsite Meeting / Conference Call,Paul,Valenzano,2.0,non-billable
+2013-05-17,Lionel Trains,Lionel Hub,Discovery Phase,Peter,Volpe,5.0,billable
+2013-05-17,Fox Theatrical,WWD The Movie,Account Management,Paul,Valenzano,3.0,non-billable
+2013-05-17,ESPN,Fan Hall of Fame 2013,Design,Douglas,Hernandez,6.0,billable
+2013-05-17,Fox Theatrical,WWD The Movie,Project Definition,Andres,Conde,6.0,non-billable
+2013-05-17,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,2.0,non-billable
+2013-05-17,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,8.0,billable
+2013-05-19,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,2.0,billable
+2013-05-20,Lionel Trains,Lionel Hub,Development,Danny,Garcia,5.5,billable
+2013-05-20,Disney,New Business: Cars Land Racers Mobile,Proposal/Comp Development,Peter,Volpe,0.5,non-billable
+2013-05-20,Lionel Trains,Lionel Hub,Discovery Phase,Sam,Horner,3.0,billable
+2013-05-20,Lionel Trains,Lionel Battle Train Site,Development,Anna,Yovandich,11.0,billable
+2013-05-20,Lionel Trains,Lionel Battle Train Site,Development,Joanna,Denni,4.0,billable
+2013-05-20,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,2.0,billable
+2013-05-20,Lionel Trains,Lionel Hub,Development,Jay,Weeks,6.0,billable
+2013-05-20,Lionel Trains,Lionel Trailer and Logo,Trailer,Christian,Kowalchuk,7.0,billable
+2013-05-20,Lionel Trains,Lionel Hub,Design,Chris,Lin,8.0,billable
+2013-05-20,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,1.0,billable
+2013-05-20,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-20,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,1.0,billable
+2013-05-20,Fox Theatrical,WWD The Movie,Account Management,Paul,Valenzano,1.0,non-billable
+2013-05-20,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,2.0,billable
+2013-05-20,ESPN,Fan Hall of Fame 2013,Design,Douglas,Hernandez,8.0,billable
+2013-05-20,ESPN,Fan Hall of Fame 2013,Account Management,Zach,Glass,0.5,non-billable
+2013-05-20,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-20,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-05-20,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,2.0,non-billable
+2013-05-20,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,3.0,non-billable
+2013-05-20,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.5,non-billable
+2013-05-21,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,3.0,billable
+2013-05-21,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-05-21,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Development,Harrington,Joseph,4.0,billable
+2013-05-21,Lionel Trains,Lionel Hub,Development,Jay,Weeks,6.5,billable
+2013-05-21,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-05-21,Lionel Trains,Lionel Battle Train Site,Development,Joanna,Denni,3.0,billable
+2013-05-21,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,3.0,non-billable
+2013-05-21,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,1.0,billable
+2013-05-21,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-21,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Danny,Garcia,2.5,non-billable
+2013-05-21,Lionel Trains,Lionel Hub,Discovery Phase,Sam,Horner,5.0,billable
+2013-05-21,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,2.0,non-billable
+2013-05-21,Lionel Trains,Lionel Hub,Design,Chris,Lin,7.0,billable
+2013-05-21,Lionel Trains,Lionel Hub,Development,Danny,Garcia,2.0,billable
+2013-05-21,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,1.0,billable
+2013-05-21,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.5,non-billable
+2013-05-21,ESPN,Fan Hall of Fame 2013,Account Management,Zach,Glass,0.5,non-billable
+2013-05-21,ESPN,Fan Hall of Fame 2013,Design,Douglas,Hernandez,8.0,billable
+2013-05-21,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-22,ESPN,Fan Hall of Fame 2013,Concept & Planning,Paul,Valenzano,2.0,billable
+2013-05-22,Hulu,The Awesomes - Site,BILLABLE Project Time,TJ,Tambellini,2.0,billable
+2013-05-22,Lionel Trains,Lionel Hub,Design,Chris,Lin,8.0,billable
+2013-05-22,RED Interactive Agency,Company Meetings & Paid Time-off,Company meeting(s),Paul,Valenzano,1.0,non-billable
+2013-05-22,Lionel Trains,Lionel Battle Train Site,Development,Joanna,Denni,2.0,billable
+2013-05-22,Lionel Trains,Lionel Hub,Development,Danny,Garcia,2.0,billable
+2013-05-22,Hulu,The Awesomes - Site,BILLABLE Project Time,Danny,Garcia,4.0,billable
+2013-05-22,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Account Management,Paul,Valenzano,1.0,non-billable
+2013-05-22,ESPN,Fan Hall of Fame 2013,Concept & Planning,Sam,Horner,1.0,billable
+2013-05-22,RED Interactive Agency,Business Development,Proposal Writing,Paul,Valenzano,2.0,non-billable
+2013-05-22,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-05-22,RED Interactive Agency,RIOT Business Development,Non-Specific Biz Dev Activity,Paul,Valenzano,2.0,non-billable
+2013-05-22,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,1.5,non-billable
+2013-05-22,Lionel Trains,Lionel Hub,Project Management,TJ,Tambellini,3.0,billable
+2013-05-22,Lionel Trains,Lionel Battle Train Site,Project Management,TJ,Tambellini,1.0,billable
+2013-05-22,ESPN,Fan Hall of Fame 2013,Account Management,Zach,Glass,0.5,non-billable
+2013-05-22,Lionel Trains,Lionel Hub,Discovery Phase,Sam,Horner,3.0,billable
+2013-05-23,Hulu,The Awesomes - Site,Account Management,Andrew,Feldman,0.5,non-billable
+2013-05-23,ESPN,Fan Hall of Fame 2013,Account Management,Zach,Glass,0.5,non-billable
+2013-05-23,Fox Theatrical,WWD The Movie,Design,Douglas,Hernandez,3.0,billable
+2013-05-23,Hulu,The Awesomes - Site,BILLABLE Project Time,Douglas,Hernandez,4.0,billable
+2013-05-23,Lionel Trains,Lionel Hub,Development,Jay,Weeks,8.0,billable
+2013-05-23,Lionel Trains,Lionel Battle Train Site,Design,Chris,Lin,1.0,billable
+2013-05-23,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,Estimation,Danny,Garcia,2.0,non-billable
+2013-05-23,Hulu,The Awesomes - Site,BILLABLE Project Time,,,,

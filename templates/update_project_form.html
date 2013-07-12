@@ -1,0 +1,43 @@
+{% extends templates/index-level-two.html %}
+	
+{% block content %}
+
+
+
+	{% if view == 'edit' %}
+	<div class="page-header">
+		<h1>Project Updates<small></small></h1>
+	</div>
+
+
+		{% if 'message' in globals() %}
+		<div class="alert">
+			{{ message }}
+		</div>
+		{% end %}
+
+
+	{% else %}
+	<div class="page-header">
+		<h1>Project Updates<small>You must choose, but choose Wisely</small></h1>
+	</div>
+
+		{% if 'message' in globals() %}
+		<div class="alert">
+			{{ message }}
+		</div>
+		{% end %}
+
+	{% if 'projects' in globals() %}
+		<ul>
+		{% for project in active_projects %}
+			<li>{{ project.project_name }}</li>
+		{% end %}
+		</ul>
+	{% end %}
+
+
+	{% end %}
+
+
+{% end %}

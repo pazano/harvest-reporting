@@ -1,0 +1,24 @@
+{% extends templates/index.html %}
+	
+{% block content %}
+
+	<div class="page-header">
+
+		<h1>Projects</h1>
+	
+	</div>	
+
+
+	{% if 'messages' in globals() %}
+		{% for row in messages %}
+			<div>{{row}}</div>
+		{% end %}
+	{% end %}
+
+	{% if 'projects' in globals() %}
+		{% for row in projects %}
+			<div>{{row['client']}} {{row['project']}}</div>
+		{% end %}
+	{% end %}
+
+{% end %}

@@ -1,0 +1,104 @@
+Date,Client,Project,Project Code,Task,First name,Last name,Note,Hours,Invoiced,Approved,Department,Billable,Hourly rate,Cost,Currency,Currency symbol
+2013-03-25,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,Gallery module for news detail pages. 1) Created styles for base layout. 2) Added functional JS for base gallery carousel. 3) Added special functionality for actual gallery component to work with the carousel.,3.53,no,no,HTML Developer,billable,160.0,564.8,United States Dollars - USD,$
+2013-03-25,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Estimation,Danny,Garcia,WWD Movie Rescope,1.0,no,no,HTML Developer,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-25,Hulu,The Awesomes - Site,"",Account Management,Andrew,Feldman,,1.0,no,no,Ad Team,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-25,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Kliford,Hernandez,,2.0,no,no,Designer,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-25,Lionel Trains,Lionel Trailer and Logo,"",Logo Development,TJ,Tambellini,,0.5,no,no,Producers,billable,160.0,80.0,United States Dollars - USD,$
+2013-03-25,Lionel Trains,Lionel Hub,"",Project Management,TJ,Tambellini,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-25,Lionel Trains,Lionel Battle Train,"",Project Management,TJ,Tambellini,,0.25,no,no,Producers,billable,160.0,40.0,United States Dollars - USD,$
+2013-03-25,ESPN,NFL Draft Bingo,"",Design & Development,Thomas,Ahn,,5.0,no,no,Backend Developer,billable,160.0,800.0,United States Dollars - USD,$
+2013-03-25,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-25,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-25,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Estimation,Andres,Conde,,1.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-25,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-25,Lionel Trains,Lionel Hub,"",Development,Jay,Weeks,prototyping,6.0,no,no,"Flex, HTML Developer",billable,160.0,960.0,United States Dollars - USD,$
+2013-03-25,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-25,ESPN,NFL Draft Bingo,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-25,Fox Theatrical,WWD The Movie,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-25,Lionel Trains,Lionel Hub,"",Design,Douglas,Hernandez,,4.0,no,no,Designer,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-25,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-26,Lionel Trains,Lionel Hub,"",Discovery Phase,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-26,Lionel Trains,Lionel Trailer and Logo,"",Logo Development,TJ,Tambellini,,0.5,no,no,Producers,billable,160.0,80.0,United States Dollars - USD,$
+2013-03-26,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Development,Danny,Garcia,Cleaning up respoinsive functionality on initial load for the number of items on the carousel to funciton correctly.,0.45,no,no,HTML Developer,billable,160.0,72.0,United States Dollars - USD,$
+2013-03-26,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-26,Lionel Trains,Lionel Hub,"",Project Management,TJ,Tambellini,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-26,ESPN,NFL Draft Bingo,"",Design & Development,Thomas,Ahn,,6.0,no,no,Backend Developer,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-26,ESPN,NFL Draft Bingo,"",Design & Development,Danny,Garcia,1) Setting up project. 2) Prototyping front-end for bingo card. 3) Created fully responsive card grid. 4) Created fully-solveable bingo card functionality.,4.8,no,no,HTML Developer,billable,160.0,768.0,United States Dollars - USD,$
+2013-03-26,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Estimation,Andres,Conde,,2.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-26,Lionel Trains,Lionel Battle Train,"",Project Management,TJ,Tambellini,,0.25,no,no,Producers,billable,160.0,40.0,United States Dollars - USD,$
+2013-03-26,Fox Theatrical,WWD The Movie,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-26,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-26,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-26,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Douglas,Hernandez,,5.0,no,no,Designer,billable,160.0,800.0,United States Dollars - USD,$
+2013-03-26,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-26,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-26,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-26,ESPN,NFL Draft Bingo,"",Design & Development,Chris,Lin,,3.0,no,no,Designer,billable,160.0,480.0,United States Dollars - USD,$
+2013-03-26,ESPN,Hall of Fans 2013 - Strategy and Planning,"",Concept & Planning,TJ,Tambellini,,0.25,no,no,Producers,billable,160.0,40.0,United States Dollars - USD,$
+2013-03-26,Lionel Trains,Lionel Hub,"",Development,Jay,Weeks,prototyping,8.0,no,no,"Flex, HTML Developer",billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-03-26,Hulu,The Awesomes - Site,"",Account Management,Andrew,Feldman,,0.5,no,no,Ad Team,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-27,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-27,Lionel Trains,Lionel Hub,"",Development,Jay,Weeks,prototyping,8.0,no,no,"Flex, HTML Developer",billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-03-27,ESPN,NFL Draft Bingo,"",Design & Development,Danny,Garcia,1) Completed solved state functionality. 2) Confirmed functional state on IE8. 3) Added fast-click for touch devices. 4) Improved solver speed. 5) Added amazing 3D card-filpping action w/support for mobile and IE fallback.,5.72,no,no,HTML Developer,billable,160.0,915.2,United States Dollars - USD,$
+2013-03-27,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-27,Lionel Trains,Lionel Hub,"",Discovery Phase,Danny,Garcia,1) Worked with Jay on some track collision / intersection logic. 2) Met about hosting / repo separation.,0.42,no,no,HTML Developer,billable,160.0,67.2,United States Dollars - USD,$
+2013-03-27,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-27,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Douglas,Hernandez,,6.0,no,no,Designer,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-27,ESPN,NFL Draft Bingo,"",Design & Development,Thomas,Ahn,,5.0,no,no,Backend Developer,billable,160.0,800.0,United States Dollars - USD,$
+2013-03-27,Fox Theatrical,WWD The Movie,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-27,ESPN,Hall of Fans 2013 - Strategy and Planning,"",Concept & Planning,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-27,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,3.0,no,no,Art Director,billable,160.0,480.0,United States Dollars - USD,$
+2013-03-27,Lionel Trains,Lionel Battle Train,"",Project Management,TJ,Tambellini,,0.25,no,no,Producers,billable,160.0,40.0,United States Dollars - USD,$
+2013-03-27,ESPN,Hall of Fans 2013 - Strategy and Planning,"",Concept & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-27,Lionel Trains,Lionel Hub,"",Discovery Phase,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-27,ESPN,NFL Draft Bingo,"",Design & Development,Chris,Lin,,8.0,no,no,Designer,billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-03-27,Lionel Trains,Lionel Hub,"",Project Management,TJ,Tambellini,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-27,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-27,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Estimation,Andres,Conde,,1.0,no,no,Art Director,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-27,Lionel Trains,Lionel Trailer and Logo,"",Logo Development,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-27,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-27,Lionel Trains,Lionel Trailer and Logo,"",Logo Development,TJ,Tambellini,,0.5,no,no,Producers,billable,160.0,80.0,United States Dollars - USD,$
+2013-03-27,ESPN,NFL Draft Bingo,"",Concept & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-27,Hulu,The Awesomes - Site,"",Account Management,Andrew,Feldman,,1.0,no,no,Ad Team,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-28,ESPN,Hall of Fans 2013 - Strategy and Planning,"",Concept & Planning,Paul,Valenzano,,3.0,no,no,Producers,billable,160.0,480.0,United States Dollars - USD,$
+2013-03-28,Hulu,The Awesomes - Site,"",Account Management,Andrew,Feldman,,0.5,no,no,Ad Team,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-28,ESPN,NFL Draft Bingo,"",Design & Development,Thomas,Ahn,,5.0,no,no,Backend Developer,billable,160.0,800.0,United States Dollars - USD,$
+2013-03-28,ESPN,NFL Draft Bingo,"",Design & Development,Danny,Garcia,1) Built functionality for win 3D card flip. 2) Contemplated for a bit how a responsive layout would work. 3) Built out completely responsive homepage.,6.53,no,no,HTML Developer,billable,160.0,"1,044.8",United States Dollars - USD,$
+2013-03-28,ESPN,NFL Draft Bingo,"",Design & Development,Chris,Lin,,1.0,no,no,Designer,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-28,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,4.0,no,no,Art Director,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-28,Lionel Trains,Lionel Trailer and Logo,"",Logo Development,TJ,Tambellini,,0.5,no,no,Producers,billable,160.0,80.0,United States Dollars - USD,$
+2013-03-28,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-28,Lionel Trains,Lionel Hub,"",Project Management,TJ,Tambellini,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-28,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-28,Lionel Trains,Lionel Battle Train,"",Project Management,TJ,Tambellini,,0.25,no,no,Producers,billable,160.0,40.0,United States Dollars - USD,$
+2013-03-28,Lionel Trains,Lionel Trailer and Logo,"",Logo Development,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-28,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-28,ESPN,NFL Draft Bingo,"",Concept & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-28,Lionel Trains,Lionel Hub,"",Development,Jay,Weeks,prototyping,8.0,no,no,"Flex, HTML Developer",billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-03-28,Fox Theatrical,WWD The Movie,"",Project Definition,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-28,ESPN,NFL Draft Bingo,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-28,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Douglas,Hernandez,,5.0,no,no,Designer,billable,160.0,800.0,United States Dollars - USD,$
+2013-03-28,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Lin,,2.0,no,no,Designer,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-28,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,2.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-28,ESPN,Hall of Fans 2013 - Strategy and Planning,"",Concept & Planning,Sam,Horner,,4.0,no,no,IA,billable,160.0,640.0,United States Dollars - USD,$
+2013-03-29,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-29,Lionel Trains,Lionel Hub,"",Discovery Phase,Sam,Horner,,6.0,no,no,IA,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-29,ESPN,Hall of Fans 2013 - Strategy and Planning,"",Concept & Planning,Sam,Horner,,1.0,no,no,IA,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-29,ESPN,NFL Draft Bingo,"",Design & Development,Danny,Garcia,1) Integrated fonts. 2) Debugged various erroneous defaults for page transitions and the like. 3) Styled menu.,7.39,no,no,HTML Developer,billable,160.0,"1,182.4",United States Dollars - USD,$
+2013-03-29,Lionel Trains,Lionel Hub,"",Discovery Phase,Andres,Conde,,2.0,no,no,Art Director,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-29,ESPN,Hall of Fans 2013 - Strategy and Planning,"",Concept & Planning,Andres,Conde,,1.0,no,no,Art Director,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-29,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Douglas,Hernandez,,6.0,no,no,Designer,billable,160.0,960.0,United States Dollars - USD,$
+2013-03-29,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Dinosaur Detail Page / Hero Production,Chris,Lin,,6.5,no,no,Designer,billable,160.0,"1,040.0",United States Dollars - USD,$
+2013-03-29,Lionel Trains,Lionel Hub,"",Development,Jay,Weeks,prototyping,8.0,no,no,"Flex, HTML Developer",billable,160.0,"1,280.0",United States Dollars - USD,$
+2013-03-29,Hulu,The Awesomes - Site,"",BILLABLE Project Time,TJ,Tambellini,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-29,Lionel Trains,Lionel Battle Train,"",Project Management,TJ,Tambellini,,0.25,no,no,Producers,billable,160.0,40.0,United States Dollars - USD,$
+2013-03-29,Lionel Trains,Lionel Hub,"",Project Management,TJ,Tambellini,,2.0,no,no,Producers,billable,160.0,320.0,United States Dollars - USD,$
+2013-03-29,Hulu,The Awesomes - Site,"",BILLABLE Project Time,Kliford,Hernandez,,3.0,no,no,Designer,billable,160.0,480.0,United States Dollars - USD,$
+2013-03-29,Lionel Trains,Lionel Trailer and Logo,"",Logo Development,TJ,Tambellini,,0.5,no,no,Producers,billable,160.0,80.0,United States Dollars - USD,$
+2013-03-29,ESPN,Hall of Fans 2013 - Strategy and Planning,"",Concept & Planning,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-29,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Project Management,Paul,Valenzano,,1.0,no,no,Producers,billable,160.0,160.0,United States Dollars - USD,$
+2013-03-29,BBC,WWD - Dinosaur Detail CMS & 2013 Ongoing,"",Account Management,Paul,Valenzano,,1.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-29,ESPN,NFL Draft Bingo,"",Design & Development,Thomas,Ahn,,7.0,no,no,Backend Developer,billable,160.0,"1,120.0",United States Dollars - USD,$
+2013-03-29,RED Interactive Agency,Company Meetings & Paid Time-off,"",Company meeting(s),Paul,Valenzano,,3.0,no,no,Producers,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-29,Hulu,The Awesomes - Site,"",Account Management,Andrew,Feldman,,0.5,no,no,Ad Team,non-billable,0.0,0.0,United States Dollars - USD,$
+2013-03-29,RED Interactive Agency,Business Development,"",Proposal Writing,Paul,Valenzano,,2.0,no,no,Producers,billable,140.0,280.0,United States Dollars - USD,$

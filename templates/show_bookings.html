@@ -1,0 +1,38 @@
+{% extends templates/index.html %}
+	
+{% block content %}
+
+	<div class="page-header">
+
+		<h1>Weekly Bookings</h1>
+	
+	</div>	
+
+	{% if 'messages' in globals() %}
+		{% for row in messages %}
+			<div>{{row}}</div>
+		{% end %}
+	{% end %}
+
+	{% if 'all_weeks' in globals() %}
+		<div class="btn-group">
+			{% for week in all_weeks %}
+				<div class="btn"><a href="/bookings">{{week}}</a></div>
+			{% end %}
+	{% end %}
+
+
+	{% if 'bookings' in globals() %}
+		{% if 'week_of' in globals() %}
+			<h3>Week of {{week_of}}</h3>
+		{% end %}
+
+		{% for row in bookings %}
+			<div>{{row.date}} {{row.task_name}} - - {{row.billable_total}} {{row.nonbill_total}} {{row.exception_total}} {{row.pto_total}}</div>
+		{% end %}
+
+	{% end %}
+
+
+
+{% end %}

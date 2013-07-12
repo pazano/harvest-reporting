@@ -1,0 +1,127 @@
+{% extends templates/index.html %}
+	
+{% block content %}
+
+
+	{% if view == 'employee' %}
+
+		<div class="page-header">
+
+			<h1>Weekly Employee Report<small>Employee Name</small></h1>
+		
+		</div>	
+
+
+	{% elif view == 'team' %}
+
+	{% from routes.reportfun import * %}
+
+		<div class="page-header">
+			<h1>{{ name }} 
+				<small>{{ week_of }}</small>
+			</h1>
+		</div>
+
+		<div>
+			<ul class="pager">
+				<li class="previous"><a href="{{ prev }}">&lt; Prev</a></li>
+				<li class="next"><a href="{{ max }}">Latest &rarr;</a></li>
+				<li class="next"><a href="{{ next }}">Next &gt;</a></li>
+			</ul>
+		</div>
+
+
+	<div class="well">
+		<table>
+			<tr>
+				<th width="200">Name</th>
+				<th width="60">BIL</th>
+				<th width="60">NBL</th>
+				<th width="60">PTO</th>
+				<th width="60">%</th>
+				<th width="200">Chart</th>
+			</tr>
+			
+			{% for row in records %}
+			<tr>
+				<td>{{ row.full_name }}</td>
+				<td>{{ row.billable_total + row.exception_total }}</td>
+				<td>{{ row.nonbill_total }}</td>
+				<td>{{ row.pto_total }}</td>
+				<td>{{ productivityPercentage(row.billable_total, row.nonbill_total, row.exception_total, row.pto_total)  }}</td>
+				<td>
+					<div class="progress">
+						<div class="bar bar-success" style="width: {{ '{0:.0f}%'.format(((row.billable_total) / 40) * 100)   }};"></div>
+						<div class="bar bar-info" style="width: {{ '{0:.0f}%'.format((row.exception_total / 40) * 100) }};"></div>
+						<div class="bar bar-warning" style="width: {{ '{0:.0f}%'.format((row.pto_total / 40) * 100) }};"></div>
+					</div>
+				</td>
+			</tr>
+			{% end %}
+		
+
+		</table>
+	</div>
+		{% if 'projects' in globals() %}
+		<table style="margin-top:40px">
+			<tr>
+				<th width="400">Project</th>
+				<th width="100">Hours (BIL)</th>
+				<th width="100">Hours (NBL)</th>
+				<th width="100">$ (Week) </th>
+				<th width="100">$ (to date)</th>
+			</tr>
+			{% for project in projects %}
+			<tr>
+				<td><strong>{{ project['project_name'] }}</strong></td>
+				<td><strong>{{ project['billable_hours'] }}</strong></td>
+				<td><strong>{{ project['nonbill_hours'] }}</strong></td>
+				<td><strong>{{ project['dollar_amount'] }}</strong></td>
+				<td><strong>{{ project['project_total'] }}</strong></td>
+			</tr>
+			<tr>
+				<td colspan="5">
+					<table>
+						{% for employees in project['bookings'] %}
+						<tr>
+							<td width="50">&nbsp;</td>
+							<td width="350"><em>{{ employees['name'] }}</em></td>
+							<td width="100">{{ employees['weekly_hours'] }}</td>
+							<td width="100">{{ employees['nonbill_hours'] }}</td>
+							<td width="100">{{ "${0:.0f}".format(employees['weekly_hours'] * 160) }}</td>
+							<td width="100">{{ "${0:.0f}".format(employees['total_hours'] * 160) }}</td>
+						</tr>
+						{% end %}
+					</table>
+				</td>
+			</tr>
+
+			{% end %}
+
+		</table>
+		{% end %}
+
+
+		
+
+	{% elif view == 'project' %}
+		<div class="page-header">
+
+			<h1>Weekly Employee Report<small>Employee Name</small></h1>
+		
+		</div>
+	
+
+	{% else %}
+	<div class="page-header">
+
+		<h1>Weekly Reports</h1>
+	
+	</div>	
+
+		<h3>..Report Options</h3>
+
+	{% end %}
+
+
+{% end %}
